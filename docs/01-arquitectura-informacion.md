@@ -1,4 +1,4 @@
-# Raíces Santander — Etapa 1: Arquitectura de la Información
+# Raíces — Etapa 1: Arquitectura de la Información
 
 **Eslogan:** Construye tu patrimonio en Santander desde cualquier lugar del mundo.
 **Alcance de esta etapa:** mapa del sitio, jerarquía de navegación y flujos de usuario del MVP. No incluye wireframes, UI ni código (etapas 2, 3 y 4).
@@ -20,7 +20,7 @@
 ## 1. Mapa completo del sitio
 
 ```
-raicessantander.com
+raices.com
 │
 ├── / (Home)
 │
@@ -90,7 +90,7 @@ raicessantander.com
 
 ### Header (navegación primaria — máx. 5 ítems + acciones)
 ```
-[Logo Raíces Santander]   Explora   Marketplace   Plan de Inversión   Blog   Aliados        [Login] [Crear cuenta]
+[Logo Raíces]   Explora   Marketplace   Plan de Inversión   Blog   Aliados        [Login] [Crear cuenta]
 ```
 - "Plan de Inversión" lleva estilo de botón/highlight (es el CTA de producto, no un link más).
 - Tras login, `[Login][Crear cuenta]` se reemplaza por avatar → menú: Mi cuenta, Favoritos, Simulaciones, Cerrar sesión.
@@ -179,7 +179,7 @@ Google ("invertir en Bucaramanga desde Estados Unidos")
 **Dentro del MVP** (todo lo listado arriba en el mapa del sitio).
 
 **Fuera del MVP** (para que quede explícito y evitemos scope creep en Etapa 4):
-- Panel de administración para que aliados editen su propio perfil (por ahora, los perfiles de aliados los carga el equipo de Raíces Santander manualmente).
+- Panel de administración para que aliados editen su propio perfil (por ahora, los perfiles de aliados los carga el equipo de Raíces manualmente).
 - Pagos o reservas en línea dentro de la plataforma (el flujo termina en lead calificado, no en transacción).
 - Multi-idioma (inglés) — probable Fase 2 dado que parte de la audiencia vive en EE.UU./Canadá/Australia, pero no bloquea la validación inicial en español.
 - Expansión a otros departamentos de Colombia.
