@@ -1,0 +1,146 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  passwordHash  String
+  nombre        String
+  paisResidencia String
+  createdAt     DateTime  @default(now())
+
+  plans         InvestmentPlan[]
+  favorites     Favorite[]
+  reminders     Reminder[]
+  documents     Document[]
+  leads         Lead[]
+}
+
+model Municipality {
+  id                  String   @id @default(cuid())
+  slug                String   @unique
+  nombre              String
+  resumen             String
+  descripcion         String
+  precioM2Promedio    Int
+  valorizacionPct     Float
+  calidadDeVida       String
+  nivelValorizacion   String
+  tipoRecomendado     String
+  lat                 Float
+  lng                 Float
+  heroImage           String
+  properties          Property[]
+
+  @@index([slug])
+}
+
+model Ally {
+  id            String   @id @default(cuid())
+  slug          String   @unique
+  nombre        String
+  categoria     String
+  descripcion   String
+  municipios    String
+  verificado    Boolean  @default(true)
+  aniosExperiencia Int
+  proyectosEntregados Int
+  logoInitial   String
+  properties    Property[]
+  leads         Lead[]
+}
+
+model Property {
+  id                    String   @id @default(cuid())
+  slug                  String   @unique
+  titulo                String
+  descripcion           String
+  municipioId           String
+  municipality          Municipality @relation(fields: [municipioId], references: [id])
+  allyId                String
+  ally                  Ally     @relation(fields: [allyId], references: [id])
+  precioDesde           Int
+  areaM2                Int
+  tipo                  String
+  estadoProyecto        String
+  rentabilidadEstimada  Float
+  entrega               String
+  destacado             Boolean  @default(false)
+  verificado            Boolean  @default(true)
+  amenidades            String
+  favorites             Favorite[]
+  leads                 Lead[]
+
+  @@index([municipioId])
+}
+
+model InvestmentPlan {
+  id              String   @id @default(cuid())
+  userId          String?
+  user            User?    @relation(fields: [userId], references: [id])
+  pais            String
+  edad            Int
+  ingresosMensuales Int
+  ahorros         Int
+  capitalDisponible Int
+  meta            String
+  tiempoAnios     Int
+  tipoPropiedad   String
+  cuotaInicialEstimada Int
+  capacidadCompra Int
+  ahorroMensualSugerido Int
+  createdAt       DateTime @default(now())
+}
+
+model Favorite {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  propertyId  String
+  property    Property @relation(fields: [propertyId], references: [id])
+  createdAt   DateTime @default(now())
+
+  @@unique([userId, propertyId])
+}
+
+model Lead {
+  id          String   @id @default(cuid())
+  userId      String?
+  user        User?    @relation(fields: [userId], references: [id])
+  allyId      String?
+  ally        Ally?    @relation(fields: [allyId], references: [id])
+  propertyId  String?
+  property    Property? @relation(fields: [propertyId], references: [id])
+  nombre      String
+  email       String
+  telefono    String
+  mensaje     String
+  origen      String
+  estado      String   @default("nuevo")
+  createdAt   DateTime @default(now())
+}
+
+model Reminder {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  tipo      String
+  mensaje   String
+  leido     Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Document {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  nombre    String
+  url       String
+  createdAt DateTime @default(now())
+}
