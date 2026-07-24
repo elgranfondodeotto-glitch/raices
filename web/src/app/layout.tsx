@@ -16,10 +16,26 @@ const inter = Inter({
   subsets: ["latin"],
 });
 
+const TITLE = "Raíces — Construye tu patrimonio en Santander";
+const DESCRIPTION =
+  "El primer ecosistema digital para que colombianos en el exterior inviertan en finca raíz en Santander, Colombia, con acompañamiento de principio a fin.";
+
 export const metadata: Metadata = {
-  title: "Raíces — Construye tu patrimonio en Santander",
-  description:
-    "El primer ecosistema digital para que colombianos en el exterior inviertan en finca raíz en Santander, Colombia, con acompañamiento de principio a fin.",
+  metadataBase: new URL("https://raices.com"),
+  title: { default: TITLE, template: "%s" },
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    locale: "es_CO",
+    type: "website",
+    siteName: "Raíces",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+  },
 };
 
 export default function RootLayout({
