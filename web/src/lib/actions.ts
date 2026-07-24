@@ -4,8 +4,22 @@ import { z } from "zod";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/prisma";
 import { auth, signIn } from "@/lib/auth";
+import { AuthError } from "next-auth";
 import { calcularPlan, type PlanInput } from "@/lib/plan";
 import { redirect } from "next/navigation";
+
+export async function loginUser(formData: FormData) {
+  const email = formData.get("email") as string;
+  const password = formData.get("password") as string;
+  try {
+    await signIn("credentials", { email, password, redirectTo: "/cuenta" });
+  } catch (err) {
+    if (err instanceof AuthError) {
+      return { error: "Correo o contraseña incorrectos." };
+    }
+    throw err;
+  }
+}
 
 const registerSchema = z.object({
   nombre: z.string().min(2),
