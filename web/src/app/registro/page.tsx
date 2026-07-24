@@ -49,7 +49,7 @@ export default function RegistroPage() {
 
       <div className="hidden items-center justify-center p-12 text-center text-white lg:flex" style={{ background: "linear-gradient(160deg, var(--color-navy) 0%, var(--color-forest) 100%)" }}>
         <blockquote className="max-w-sm font-display text-2xl leading-snug">
-          "Únete a los colombianos que ya están construyendo su patrimonio en Santander desde el exterior."
+          &ldquo;Únete a los colombianos que ya están construyendo su patrimonio en Santander desde el exterior.&rdquo;
         </blockquote>
       </div>
     </div>

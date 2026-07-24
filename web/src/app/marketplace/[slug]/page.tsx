@@ -49,8 +49,28 @@ export default async function PropertyPage({ params }: { params: Params }) {
 
   const amenidades = property.amenidades.split(",");
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "RealEstateListing",
+    name: property.titulo,
+    description: property.descripcion,
+    url: `https://raices.com/marketplace/${property.slug}`,
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: property.municipality.nombre,
+      addressRegion: "Santander",
+      addressCountry: "CO",
+    },
+    offers: {
+      "@type": "Offer",
+      price: property.precioDesde,
+      priceCurrency: "COP",
+    },
+  };
+
   return (
     <div className="mx-auto max-w-7xl px-6 py-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="h-72 w-full rounded-[var(--radius-lg)]" style={{ background: "linear-gradient(135deg, var(--color-forest) 0%, var(--color-navy) 100%)" }} />
 
       <div className="mt-6 flex flex-wrap items-start justify-between gap-4">

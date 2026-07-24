@@ -8,7 +8,12 @@ export function ThemeToggle() {
   const { resolvedTheme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
-  useEffect(() => setMounted(true), []);
+  useEffect(() => {
+    // Patrón recomendado por next-themes: evita el mismatch de hidratación
+    // entre el tema renderizado en servidor y el tema real del cliente.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setMounted(true);
+  }, []);
 
   if (!mounted) return <div className="h-9 w-9" />;
 

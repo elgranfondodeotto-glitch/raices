@@ -37,7 +37,23 @@ export default async function MunicipioPage({ params }: { params: Params }) {
     { icon: HomeIcon, label: "Tipo recomendado", value: m.tipoRecomendado },
   ];
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Place",
+    name: m.nombre,
+    description: m.resumen,
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: m.nombre,
+      addressRegion: "Santander",
+      addressCountry: "CO",
+    },
+    geo: { "@type": "GeoCoordinates", latitude: m.lat, longitude: m.lng },
+  };
+
   return (
+    <>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     <div>
       <div className="relative h-64 w-full" style={{ background: "linear-gradient(135deg, var(--color-forest) 0%, var(--color-navy) 100%)" }}>
         <div className="absolute inset-0 flex items-end bg-black/20">
@@ -90,5 +106,6 @@ export default async function MunicipioPage({ params }: { params: Params }) {
         )}
       </div>
     </div>
+    </>
   );
 }

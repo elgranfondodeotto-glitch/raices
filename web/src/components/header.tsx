@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { MobileNav } from "@/components/mobile-nav";
 import { Button } from "@/components/ui/button";
 
 const NAV = [
@@ -40,6 +41,7 @@ export function Header() {
             Ingresar
           </Link>
           <Button href="/registro" size="sm">Crear cuenta</Button>
+          <MobileNav />
         </div>
       </div>
     </header>
