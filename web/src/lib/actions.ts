@@ -82,6 +82,7 @@ export async function submitPlan(formData: FormData) {
       cuotaInicialEstimada: resultado.cuotaInicialEstimada,
       capacidadCompra: resultado.capacidadCompra,
       ahorroMensualSugerido: resultado.ahorroMensualSugerido,
+      mesesParaMeta: resultado.mesesParaMeta,
     },
   });
 

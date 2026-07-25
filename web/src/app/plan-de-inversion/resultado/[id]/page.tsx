@@ -41,6 +41,7 @@ export default async function ResultadoPage({ params }: { params: Params }) {
       <div className="mt-8 grid gap-4 sm:grid-cols-2">
         <ResultCard label="Cuota inicial estimada" value={formatCOP(plan.cuotaInicialEstimada)} />
         <ResultCard label="Ahorro mensual sugerido" value={formatCOP(plan.ahorroMensualSugerido)} />
+        <ResultCard label="Tiempo estimado para tu cuota inicial" value={formatMeses(plan.mesesParaMeta)} />
         {fullAccess ? (
           <>
             <ResultCard label="Capacidad de compra estimada" value={formatCOP(plan.capacidadCompra)} />
@@ -91,6 +92,16 @@ export default async function ResultadoPage({ params }: { params: Params }) {
       )}
     </div>
   );
+}
+
+function formatMeses(meses: number) {
+  if (meses <= 0) return "Ya la tienes cubierta";
+  const anios = Math.floor(meses / 12);
+  const restoMeses = meses % 12;
+  if (anios === 0) return `${meses} ${meses === 1 ? "mes" : "meses"}`;
+  const partes = [`${anios} ${anios === 1 ? "año" : "años"}`];
+  if (restoMeses > 0) partes.push(`${restoMeses} ${restoMeses === 1 ? "mes" : "meses"}`);
+  return partes.join(" y ");
 }
 
 function ResultCard({ label, value }: { label: string; value: string }) {

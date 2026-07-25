@@ -33,15 +33,29 @@ type FormState = {
 
 const STEPS = ["pais", "edad", "ingresosMensuales", "ahorros", "capitalDisponible", "meta", "tiempoAnios", "tipoPropiedad"] as const;
 
+function isStepValid(key: (typeof STEPS)[number], value: string): boolean {
+  if (value === "") return false;
+  if (key === "edad") {
+    const n = Number(value);
+    return Number.isInteger(n) && n >= 18 && n <= 90;
+  }
+  if (key === "ingresosMensuales" || key === "ahorros" || key === "capitalDisponible") {
+    const n = Number(value);
+    return Number.isFinite(n) && n >= 0;
+  }
+  return true;
+}
+
 export function PlanWizard({ municipio }: { municipio?: string }) {
   const [step, setStep] = useState(0);
   const [data, setData] = useState<FormState>({
     pais: "", edad: "", ingresosMensuales: "", ahorros: "", capitalDisponible: "", meta: "", tiempoAnios: "", tipoPropiedad: "",
   });
   const [pending, setPending] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   const key = STEPS[step];
-  const canAdvance = data[key] !== "";
+  const canAdvance = isStepValid(key, data[key]);
   const isLast = step === STEPS.length - 1;
 
   return (
@@ -62,8 +76,13 @@ export function PlanWizard({ municipio }: { municipio?: string }) {
 
       <form
         action={async (formData) => {
+          setError(null);
           setPending(true);
-          await submitPlan(formData);
+          const res = await submitPlan(formData);
+          if (res?.error) {
+            setError(res.error);
+            setPending(false);
+          }
         }}
       >
         {Object.entries(data).map(([k, v]) => (
@@ -88,6 +107,7 @@ export function PlanWizard({ municipio }: { municipio?: string }) {
               className="h-14 w-full rounded-[var(--radius-md)] border border-[var(--color-border)] bg-[var(--color-card)] px-4 text-lg"
               placeholder="Ej. 35"
             />
+            <p className="mt-2 text-xs text-[var(--color-text-secondary)]">Debe estar entre 18 y 90 años.</p>
           </Step>
         )}
 
@@ -164,9 +184,12 @@ export function PlanWizard({ municipio }: { municipio?: string }) {
           </button>
 
           {isLast ? (
-            <Button type="submit" disabled={!canAdvance || pending}>
-              {pending ? "Calculando..." : "Ver mi plan"}
-            </Button>
+            <div className="flex flex-col items-end gap-2">
+              {error && <p className="text-sm text-[var(--color-error)]">{error}</p>}
+              <Button type="submit" disabled={!canAdvance || pending}>
+                {pending ? "Calculando..." : "Ver mi plan"}
+              </Button>
+            </div>
           ) : (
             <Button type="button" disabled={!canAdvance} onClick={() => setStep((s) => s + 1)}>
               Siguiente

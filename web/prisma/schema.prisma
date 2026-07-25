@@ -96,6 +96,7 @@ model InvestmentPlan {
   cuotaInicialEstimada Int
   capacidadCompra Int
   ahorroMensualSugerido Int
+  mesesParaMeta   Int
   createdAt       DateTime @default(now())
 }
 
