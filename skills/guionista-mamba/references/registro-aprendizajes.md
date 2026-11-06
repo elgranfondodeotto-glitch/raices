@@ -143,6 +143,14 @@ Respuestas preparadas para una entrevista o charla pública: apertura, tres preg
 | — | Datos de la plataforma (nombre del sello, criterios para otorgarlo) sin fecha. | Los programas de las plataformas cambian de nombre y de reglas: verificar el nombre y los criterios vigentes antes de grabar. Si hay links de afiliado, decirlo. |
 | — | Tono de manual: «lo primero que debemos saber es que…», «analicemos cada una para que veamos de qué se trata». | Se dice como lo diría Otto en la rodada, con su experiencia: qué compró, qué le llegó, qué le salió mal. |
 
+### K. Texto de antes · Mensaje a la comunidad de Año Nuevo (enero 2020)
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| El refrán más Otto de todos: **«hombre pelado no goza mujer bonita ni mucho menos bicicleta gama alta»**. También: «la bici no se mantiene sola», «andar de loco por Bucaramanga en la Mamba», «no deja mucho tiempo para la farándula». | Abre pidiendo disculpas por la ausencia («hace mucho tiempo no pasaba por aquí»): pone el foco en Otto y no en la comunidad. | En los mensajes de lealtad, **la línea más graciosa o más verdadera abre**; nunca la disculpa por no publicar. |
+| Gratitud genuina a la comunidad (etapa de lealtad). | Deseos genéricos («feliz año lleno de buenas cosas») y agradecimiento sin nada concreto. | Agradecer con un momento o un dato concreto del año (una carrera, un alumno, una rodada). |
+| Mira hacia adelante: arranca la temporada. | Cierre vago: «espero encontrarlos a todos por allí». La mejor frase queda enterrada al final. | Cierre con una pregunta que haga hablar a la comunidad («¿en qué carrera nos vemos?») y, si existe, dónde encontrarse (rodada, clínica). |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.

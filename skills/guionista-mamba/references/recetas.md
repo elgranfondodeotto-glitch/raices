@@ -11,7 +11,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 | MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera · 15 Comparativa de decisión «¿X o Y?» |
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
-| Lealtad | 12 Celebrar al alumno |
+| Lealtad | 12 Celebrar al alumno · 18 Mensaje a la comunidad (Año Nuevo, gracias, regreso) |
 | Autoridad y comunidad | 16 Entrevista, charla pública o invitado de podcast |
 | MOFU + lealtad | 17 Respondiendo a tus comentarios |
 
@@ -236,3 +236,19 @@ CAPÍTULOS 2… · Por categoría: Suspensión y frenos · [resto de categorías
 
 CIERRE
 Si te quedó una duda, déjala en los comentarios: de ahí sale el próximo video. Y si quieres ver cómo les fue a mis amigos comprando por AliExpress, ese video está aquí. Más determinación, menos excusas. [Tarjeta al video anterior + 2 s de aire]
+
+## 18 · Mensaje a la comunidad: Año Nuevo, gracias o regreso (lealtad) — base: mensaje de enero 2020
+- **Formato:** post o reel corto a cámara (20–40 s), o copy largo.
+- **Abre** con la línea más graciosa o más verdadera (un refrán de Otto, una confesión). Nunca con la disculpa por la ausencia.
+- **Agradece** con un momento concreto del año.
+- **Mira hacia adelante:** qué viene (temporada, carrera, clínica, viaje).
+- **Cierra** con una pregunta a la comunidad + «más determinación, menos excusas».
+
+### Ejemplo: el mensaje de 2020 reescrito con el sistema
+`Lealtad · La comunidad que lo sigue desde Bucaramanga · Trabajo: sentirse parte · Receta 18 · Cialdini: simpatía + unidad · CTA: comentario · Métrica: comentarios`
+
+Hombre pelado no goza mujer bonita, ni mucho menos bicicleta gama alta. Por eso volví a trabajar. [risa]
+Y sí, extraño el año sabático y andar de loco por Bucaramanga en la Mamba con los parceros. Pero la bici no se mantiene sola.
+Gracias por todo el apoyo del 2019: [⚠️ un momento concreto del año].
+Ya arranca la temporada 2020. ¿En qué carrera nos vemos? Déjamelo en los comentarios.
+Feliz año, máquinas. Más determinación, menos excusas.

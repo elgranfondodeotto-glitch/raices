@@ -106,6 +106,7 @@ Lección del reel de TOFU/MOFU/BOFU (instagram.com/reel/DeX0fBQgekF): los virale
 - «Olímpicos de París» (2024): el texto crudo de Otto (papá boxeador, Barcelona 92, «el extraterrestre de Usain Bolt», «la piel chinita», «soy cursi») es mejor que la versión pulida, que suena genérica. Análisis en §H del registro y versión reescrita en `recetas.md` §7.
 - Entrevista «Semana de la Bicicleta» (Funza): la mejor frase («si hace 10 años me hubieran dicho… no le hubiera creído») estaba al final, y la idea más filosa (en Colombia la bici fue transporte antes que los carriles, por el salario mínimo) estaba escondida. Análisis en §I del registro y versión reescrita en `recetas.md` §16.
 - «Tiendas confiables en AliExpress» (YouTube largo, segunda parte): el tema salió de los comentarios (muy bien), pero tardaba más de 30 s en entrar al tema y mandaba a la gente a otro video al inicio. Análisis en §J del registro y versión reescrita en `recetas.md` §17.
+- Mensaje de Año Nuevo (enero 2020): trae el refrán más Otto, «hombre pelado no goza mujer bonita ni mucho menos bicicleta gama alta», pero enterrado al final y después de una disculpa por la ausencia. Análisis en §K del registro y versión reescrita en `recetas.md` §18.
 
 ### Copy de la clínica, corto y contundente (aprobado el 5 nov)
 > Este domingo 8 de nov 🔥 Clínica de técnica en Central Park · 9–11 am. Calas, frenado, curvas y posición. Para MTB, gravel y hasta perfumados 😏 $75 · máx. 6 personas · quedan 3 cupos. Escríbeme por WhatsApp o DM y separa el tuyo. Más determinación, menos excusas 🐍
