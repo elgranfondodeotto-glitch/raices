@@ -80,6 +80,19 @@ Las frases literales de Otto vienen de su memoria (§5). Cuando un dato de este 
 | Copy de la clínica corto y contundente (aprobado 5 nov). | — | Copys cortos; en Trial Reels, 1–2 líneas. |
 | — | La música que «ya sirve». | Música curada para cada video. |
 
+### F. Guiones manuales de antes (línea base) · «Guion para viajar a la Titan Desert Marruecos»
+
+Otto lo escribió a mano a partir de las preguntas frecuentes oficiales de la Škoda Titan Desert Morocco. Sirve para medir el cambio: qué se conserva y qué cambia con el sistema.
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| La experiencia propia que la FAQ no tiene: «yo he viajado de las dos formas», ir por tierra desde Almería (+5 días ida y vuelta), la e-SIM «funciona al pelo», Willy Asistencias, «menos es más». Es lo único que nadie más puede contar. | Arranca con «lo primero es comprar los vuelos»: no hay gancho. | **El valor está en la experiencia de Otto, no en la FAQ.** La FAQ oficial es la fuente de los datos, no el guion. |
+| Valor práctico real: tranquiliza al que quiere ir y no sabe cómo. | Copia la FAQ punto por punto (vuelos, haimas, bici, equipaje, comida, enchufes, cobertura, asistencia, ropa): todo pesa igual, no hay pico, no hay bucles. Son ~450 palabras (~3 min). | **Una idea por pieza.** De una FAQ salen: 1 Short con los 3 datos que más sorprenden + la experiencia de Otto, una serie de Shorts (uno por pregunta) y 1 video largo de YouTube con capítulos. |
+| Tono cercano y con energía («¡Aventura total!», «menos es más»). | Emojis, negritas y viñetas dentro del texto hablado: el teleprompter no los lee. | En el guion hablado no van emojis, viñetas ni negritas; esos van en el texto en pantalla y en el copy. |
+| — | No define etapa, persona ni CTA («ahí les dejo para que vengan a vivir…»). | Ficha primero. Si es MOFU, CTA de guardado; si Otto vende el viaje, BOFU con oferta verificada. |
+| — | Datos que cambian cada edición (horarios, 20 kg + 5 kg, almacenes de Barcelona) sin año ni fuente. | Cada dato logístico lleva la edición y la fuente («según la organización, edición 2026») y se reconfirma antes de grabar. |
+| — | Willy Asistencias aparece como recomendación. | Antes de nombrar una empresa, confirmar con Otto si hay acuerdo: si lo hay, se dice con transparencia; si no, se nombra como recomendación personal. |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.

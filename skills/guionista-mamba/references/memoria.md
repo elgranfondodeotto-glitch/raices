@@ -100,6 +100,9 @@ Lección del reel de TOFU/MOFU/BOFU (instagram.com/reel/DeX0fBQgekF): los virale
 - Rockintor AirVora (1:42): estilo del reel de PGYTECH. Gancho sin voz con hyperlapse; honestidad de «más de 10 años compitiendo y nunca me había convencido una protección»; datos concretos (940 g, nivel 2, OrganProt3ct, Premio de Innovación 2026, **este último confirmado por Otto**). Copy elegido: opción B «Directo al dolor».
 - Ravemen FR1500 y CL200: un review dedicado por luz, grabado en estudio con las luces apagadas. La FR1500 lleva el unboxing de toda la caja. Se dice con honestidad lo que no se puede mostrar en estudio (alcance de 115 m). Cifras «según Ravemen».
 
+### Guiones de antes, escritos a mano (línea base)
+- «Guion para viajar a la Titan Desert Marruecos»: hecho a partir de la FAQ oficial de la Škoda Titan Desert Morocco. Lo valioso es la experiencia de Otto (Almería por tierra, e-SIM, Willy Asistencias, «menos es más»). Análisis en `registro-aprendizajes.md` §F y versión reescrita en `recetas.md` §14.
+
 ### Copy de la clínica, corto y contundente (aprobado el 5 nov)
 > Este domingo 8 de nov 🔥 Clínica de técnica en Central Park · 9–11 am. Calas, frenado, curvas y posición. Para MTB, gravel y hasta perfumados 😏 $75 · máx. 6 personas · quedan 3 cupos. Escríbeme por WhatsApp o DM y separa el tuyo. Más determinación, menos excusas 🐍
 

@@ -8,7 +8,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 |---|---|
 | TOFU · alcance y envíos | 1 La bici del campeón · 2 Hype en una toma · 3 Adivina a ciegas · 4 "30 segundos en…" · 10 Actitud/estilo |
 | TOFU · seguidores nuevos | 11 Colaboración o reto con alguien conocido |
-| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje |
+| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera |
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno |
@@ -97,3 +97,39 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 - Un video por producto cuando el acuerdo dice "dedicado". Un unboxing dentro de otro tema no cuenta: solo como extra.
 - Estructura de YouTube largo (SKILL.md): gancho ≤ 20 s con el problema que resuelve el producto → saludo → transparencia ("me lo mandó Ravemen para probarlo, opinión honesta") → unboxing de toda la caja (si aplica) → pruebas reales → lo que NO se puede mostrar se dice con honestidad (ej.: alcance de 115 m en estudio) → veredicto con pros y contras → link y código en voz y en la descripción.
 - Cifras "según Ravemen" (o la marca que sea) cuando no se prueban en cámara. Grabación en estudio con las luces apagadas para las luces.
+
+## 14 · Guía práctica «Lo que nadie te dice de ir a [carrera]» (MOFU, guardados; BOFU si Otto vende el viaje) — base: guion manual de la Titan Desert
+- **Materia prima:** la FAQ oficial de la carrera (fuente de los datos) + la experiencia de Otto (el valor). Nunca se copia la FAQ punto por punto.
+- **Corte:** 1 Short con los 3 datos que más sorprenden y un truco propio; el resto se reparte en una serie (un Short por pregunta) y en un video largo con capítulos (Vuelos · Campamentos · Bici · Equipaje · Comida · Comunicación · Asistencia).
+- **Pico:** el dato que da miedo o sorprende (en la Titan, la etapa maratón).
+- **Datos:** con año y fuente («según la organización»); reconfirmar antes de grabar.
+
+### Ejemplo: el guion manual de la Titan, reescrito con el sistema (Short de ~40 s)
+`MOFU · Andrés, 38, colombiano, quiere correr la Titan y la logística lo frena · Trabajo: quitarse el miedo logístico · Conciencia: del problema · Receta 14 · Cialdini: autoridad + reciprocidad · STEPPS: valor práctico + historias · CTA: guardado · Métrica: guardados`
+
+GANCHO
+En la Titan Desert te dan cama todas las noches… menos una. [Plano: Otto frente a una haima vacía]
+
+INTRO
+Máquinas, yo he corrido la Titan y les cuento tres cosas que nadie les dice antes de ir.
+
+CUERPO 1
+Desde Colombia, vuelen a Madrid o a Barcelona: de ahí salen los vuelos de la organización un día antes de la carrera. ¿Mi favorita? Por tierra desde Almería. Son cinco días más, pero se goza el doble.
+
+BUCLE
+Pero lo que más me sorprendió fue la comida.
+
+CUERPO 2
+Desayuno, almuerzo y cena van incluidos. Pero en carrera los avituallamientos son solo líquidos: las barritas y los geles, desde la casa.
+
+BUCLE 2
+Y ahora, la noche que les dije.
+
+CUERPO 3 · PICO
+La etapa maratón. Ahí desaparecen el colchón, las sábanas y la maleta. Duermes con lo que cargaste tú en la bici. Ahí no te ganan las patas: te gana la estrategia.
+
+REMATE + CTA
+Guárdalo para el día que te inscribas. Más determinación, menos excusas.
+
+Texto en pantalla: «CAMA TODAS LAS NOCHES… MENOS UNA 🏜️». Duración: ~105 palabras, ~42 s. Datos según la FAQ de la organización: reconfirmar vuelos chárter, comidas incluidas y etapa maratón para la edición del año. ⚠️ Confirmar con Otto cuántas veces corrió la Titan antes de decir el número.
+Lo que queda para la serie y el video largo: bici en camiones desde Barcelona, equipaje 20 kg + 5 kg en cabina, e-SIM, asistencia externa (Willy Asistencias), lavar ropa y «menos es más».
