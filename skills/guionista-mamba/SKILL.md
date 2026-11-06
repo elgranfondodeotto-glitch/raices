@@ -109,7 +109,7 @@ En contenido sobre Otto, **el único protagonista es Otto** («siempre asegúrat
 
 - Dinámico, dicharachero, con energía, cercano y suelto. Sin frases acartonadas ni de LinkedIn. Una idea por frase. Humor cada 15–20 s.
 - Refranes, exageraciones, chascarrillos intelectuales y detalle técnico.
-- **Frases suyas** (con medida, no todas en cada guion): "máquinas", "nada más y nada menos", "el diablo está en los detalles", "madre mía", "lo que está bien hecho, está bien hecho", "pónganle cuidado", "¿okay?", "o sea", "pico cerrao", "las patas" (nunca "pies"), "este cabrón" / "cabrón" (con medida), "top of the line", "la bici no se mantiene sola", "la mamá de los pollitos", "vamos al grano", "hombre pelado no goza mujer bonita, ni mucho menos bicicleta gama alta" (refrán), "¡y que viva el mountain bike, cabrones!", "más determinación, menos excusas", "vales oro". "Los quiero como si los hubiera parido" solo en casos puntuales. Ciclistas de ruta: "perfumados". Su novia: "la mía". Amigos: "parcero".
+- **Frases suyas** (con medida, no todas en cada guion): "máquinas", "nada más y nada menos", "el diablo está en los detalles", "madre mía", "lo que está bien hecho, está bien hecho", "pónganle cuidado", "¿okay?", "o sea", "pico cerrao", "las patas" (nunca "pies"), "este cabrón" / "cabrón" (con medida), "top of the line", "la bici no se mantiene sola", "la mamá de los pollitos", "vamos al grano", "esa silla me cobró arriendo", "si le duele hasta el pelo, ¿qué está esperando?", "si no tenías ni idea, ya no tienes excusa", "hombre pelado no goza mujer bonita, ni mucho menos bicicleta gama alta" (refrán), "¡y que viva el mountain bike, cabrones!", "más determinación, menos excusas", "vales oro". "Los quiero como si los hubiera parido" solo en casos puntuales. Ciclistas de ruta: "perfumados". Su novia: "la mía". Amigos: "parcero".
 - **Saludo exacto**, en este orden: "buenas noches, buenas tardes, buenos días" (como la canción de Arcángel). En reels va después del gancho o no va.
 - **Inglés dentro del guion:** pronunciación entre paréntesis la primera vez: *power bank* (páuer benk), *beam* (bim), *brake light* (bréik lait).
 - **Nunca** expresiones religiosas: Otto es ateo.
@@ -145,6 +145,8 @@ El guionista **no renderiza ni exporta** («No generes la edición… prepara la
 - [ ] El gancho corresponde al nivel de conciencia, no tiene nada antes y tiene plano propuesto.
 - [ ] No es un guion «de antes»: no empieza por el principio («hoy vamos a hablar de…»), no sigue el orden de la FAQ, tiene pico y no cierra con despedida («dejen su like… chao»). El patrocinador no entra antes del primer valor.
 - [ ] Usa la experiencia propia y los ejemplos locales de Otto (es lo que nadie más puede contar).
+- [ ] No se pide like, suscripción ni campana a mitad del video (solo al final, en una frase, o nada).
+- [ ] Las series con nombre (Nunca pero nunca, No tenía ni idea) mantienen su título en pantalla y su estructura.
 - [ ] Nada saca a la gente antes de tiempo: ni tarjeta a otro video, ni «sígueme en redes», ni saludos largos en los primeros 20 s. Ningún link en el texto hablado.
 - [ ] Refuerza el posicionamiento.
 - [ ] TOFU con 2+ STEPPS; MOFU regala el truco completo; BOFU con ecuación de valor y prueba o escasez REAL.

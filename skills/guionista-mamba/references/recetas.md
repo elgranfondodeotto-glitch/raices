@@ -8,7 +8,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 |---|---|
 | TOFU · alcance y envíos | 1 La bici del campeón · 2 Hype en una toma · 3 Adivina a ciegas · 4 "30 segundos en…" · 10 Actitud/estilo |
 | TOFU · seguidores nuevos | 11 Colaboración o reto con alguien conocido |
-| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera · 15 Comparativa de decisión «¿X o Y?» |
+| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera · 15 Comparativa de decisión «¿X o Y?» · 20 Serie para principiantes «No tenía ni idea» |
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno · 18 Mensaje a la comunidad (Año Nuevo, gracias, regreso) |
@@ -285,3 +285,36 @@ CIERRE
 Gracias, Pato. Y tú, ¿te pasarías al AXS o sigues con el mecánico? Déjamelo en los comentarios. Más determinación, menos excusas. [Tarjeta + 2 s de aire]
 
 ⚠️ Verificar con SRAM: autonomía, pesos, tiempos de carga, versiones y la norma IP69K. AXS usa su propio protocolo inalámbrico (no es «versión bluetooth»).
+
+## 20 · Serie para principiantes «No tenía ni idea» (MOFU, guardados) — base: «Qué ropa ponerse para ir en bici»
+- **Persona:** el que empieza (y la que empieza: incluir a las mujeres con ejemplos propios).
+- **Gancho:** el dolor del principiante dicho con sus palabras («me duele el culo», «esa silla me cobró arriendo»).
+- **Título en pantalla fijo:** «NO TENÍA NI IDEA · [tema]».
+- **Bucle de apertura:** anunciar el error que comete casi todo el que empieza y dejarlo para el pico.
+- **Capítulos:** uno por elemento, en el orden en que el principiante lo necesita. Cada dato con un chiste pegado.
+- **Pico:** el dato que más sorprende al principiante.
+- **Remate:** «si no tenías ni idea, ya no tienes excusa» + un CTA (guardado) + «más determinación, menos excusas».
+- **Shorts que salen:** el pico como TOFU de curiosidad y la tabla práctica (por ejemplo, badana según horas) como MOFU de guardado.
+
+### Ejemplo: «Qué ropa ponerse para ir en bici» reescrito con el sistema
+`MOFU · Laura, 31, Bucaramanga, empezó a rodar hace un mes y le duele todo · Trabajo: dejar de sufrir en la silla sin gastar de más · Conciencia: del problema · Receta 20 · Cialdini: reciprocidad + simpatía · CTA: guardado · Métrica: guardados y retención`
+
+GANCHO
+«Me duele el culo.» «Esa silla me cobró arriendo.» Si estás empezando en la bici, ya lo dijiste. Y no, no es que yo tenga callo: es que elijo bien la ropa. [Texto: NO TENÍA NI IDEA · Qué ropa ponerse para ir en bici]
+
+INTRO
+Hoy les digo qué ponerse de las manos a los pies. Y al final de la badana les cuento el error que comete casi todo el que empieza.
+
+SALUDO
+Buenas noches, buenas tardes, buenos días. Y un saludo a las chicas de Mujeres al Pedal Bucaramanga [⚠️ confirmar si sigue vigente].
+
+CAPÍTULOS
+1. **Los tres puntos de contacto:** manubrio, silla y pedales. Ahí va la fuerza y ahí descarga el peso el cuerpo.
+2. **Los guantes:** de tu talla; en montaña, de dedo completo, porque hay más riesgo de caída y más fuerza en las manos.
+3. **La badana:** qué es («esa espuma que nos hace ver sexis y seductores… como si nos hubiéramos hecho la cirugía de las nalgas») · según las horas: triatlón (la más ligera) · hasta 2 h para XC y DH · 3–4 h para maratón · 5 h o más para gran fondo · la pregunta del millón: ¿puedo usar la de 5 horas siempre? Sí, pero es más gruesa y te quita agilidad en XC y DH. Si ya te duele hasta el pelo, ¿qué estás esperando?
+   **PICO:** la badana va sin ropa interior. A pelo, sí señor. La ropa interior roza, abre heridas y no deja que la badana se acomode.
+4. **La licra:** corta o larga (la larga evita el bronceado sexi del ciclista) · con o sin tirantes (para ellas, sin tirantes o con broche, por la ida al baño) · la de hombre es un poco más larga adelante.
+5. **El jersey:** de tu talla (cada marca horma distinto) · tela de calidad, que no guarda olores · al menos un bolsillo impermeable para el celular y la plata · cremallera completa para los días de calor · manga según el clima: no es lo mismo Cali a las 6 de la mañana que Bogotá a 5 grados.
+
+REMATE + CTA
+Así que si no tenías ni idea, ya no tienes excusa. Guárdalo para tu próxima compra. Más determinación, menos excusas. [2 s de aire]

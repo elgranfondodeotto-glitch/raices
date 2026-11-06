@@ -162,6 +162,18 @@ Respuestas preparadas para una entrevista o charla pública: apertura, tres preg
 | — | Otto solo pregunta: no aporta su experiencia ni traduce lo técnico. | Otto es el guía del espectador: repregunta en palabras simples, cuenta su experiencia y cierra cada capítulo con un resumen de una frase. |
 | — | Datos técnicos sin verificar (el guion dice «versión bluetooth»: AXS usa su propio protocolo inalámbrico; la app se conecta por Bluetooth). Producto presentado como «nuevo». | Verificar las specs con la marca antes de grabar; no decir «nuevo» si el video va a vivir años en búsqueda. Transparencia si hay relación con la marca (hoy existe un acuerdo pagado con SRAM/RockShox). |
 
+### M. Guion de antes · YouTube «Qué ropa ponerse para ir en bici» (sección «No tenía ni idea»)
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| **El mejor gancho del guion está escondido después de la intro:** «la expresión más común de los que empiezan: me duele el culo… esa silla me cobró arriendo». Nombra el dolor exacto del principiante (conciencia del problema). | Antes del gancho van: «mi genteeee», la explicación de la sección, «yo soy Otto…» y «vamos al intro». | El dolor del espectador, dicho como lo dice él, es el gancho. Sin nada antes. |
+| Humor propio que enseña: la badana «nos hace ver sexis y seductores… parece que nos hubiéramos hecho la cirugía de las nalgas», «si le duele hasta el pelo, ¿qué está esperando?», «el bronceado sexi del ciclista». | — | El humor va pegado al dato que enseña: así se recuerda. |
+| Una serie con nombre («No tenía ni idea») = activo distintivo, como «Nunca pero nunca». | — | Las series con nombre se mantienen: el mismo nombre, el mismo título en pantalla y la misma estructura en cada capítulo. |
+| Valor práctico real para el principiante: badana según horas (triatlón, ≤ 2 h para XC/DH, 3–4 h para maratón, 5 h o más para gran fondo), «la pregunta del millón», sin ropa interior, tirantes con broche para ellas, jersey con cremallera completa y bolsillo impermeable, manga según el clima (Cali vs Bogotá). | Pide like, suscripción y campana **a los 30 s y otra vez a mitad del video**, cortando el contenido. | **Nunca se pide like ni suscripción a mitad del video.** Al final y en una frase, o nada. |
+| Le habla a las mujeres que empiezan y saluda a Mujeres al Pedal Bucaramanga (reto Bike Girl): comunidad y unidad. | El orden salta (la diferencia entre licra de hombre y de mujer aparece dentro de la sección de badanas). | Un capítulo por prenda, en el orden en que el principiante la compra. El dato más sorprendente («sin ropa interior») es el pico. |
+| — | Apodo «el nazareno». | Es una referencia religiosa: no se usa (Otto es ateo y la regla es sin expresiones religiosas). «El señor caído» sí se puede. |
+| — | Cierre largo («agradecerles a todos, el canal sigue creciendo…»). | Cierre: remate con la frase de la serie («si no tenías ni idea, ya no tienes excusa») + un CTA + activo distintivo. |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.
