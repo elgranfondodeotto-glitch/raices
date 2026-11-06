@@ -61,6 +61,26 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 - Storyworthy: empezar cerca del momento de 5 segundos del cambio, en presente, con apuestas claras.
 - Para YouTube: empaquetar como "Lo que aprendí sufriendo [X]", no como diario. De cada historia larga salen 2–3 Shorts de problema → solución.
 
+### Ejemplo: «Olímpicos de París» reescrito con el sistema (receta 7, reel de ~45 s con voz de Otto)
+`TOFU/MOFU · Diana, 35, latina en Nueva York, tiene un sueño aplazado por plata · Trabajo: sentir que todavía puede · Conciencia: inconsciente · Receta 7 · Cialdini: simpatía + unidad · STEPPS: emoción + historias · CTA: envío · Métrica: envíos y retención`
+
+GANCHO
+Mi viejo era boxeador profesional. En Barcelona 92 lo vi vivir cada pelea como si estuviera en el cuadrilátero. [Plano: foto de archivo del papá o Otto de espaldas frente a los anillos olímpicos]
+
+INTRO
+Ese niño se enamoró de los Olímpicos. Y en Pekín 2008, viendo al extraterrestre de Usain Bolt, me prometí una cosa: algún día iba a estar ahí.
+
+CUERPO
+Y por años no se dio. La plata no alcanzaba. Pero aprendí algo: lo que uno quiere no cae del cielo. Si quiero que pase, tiene que ser mi única prioridad.
+
+PICO
+Hoy estoy en los Olímpicos de París. Y no es ni de cerca lo que me imaginé: es mucho más grande. Tengo la piel chinita y ganas de llorar. Soy cursi, ya lo saben.
+
+REMATE + CTA
+Así que sueñen, y sueñen en grande. Los apoyen o no, los sueños son suyos. Mándaselo al parcero que tiene un sueño guardado. Más determinación, menos excusas.
+
+Texto en pantalla: «BARCELONA 92 → PARÍS 2024 🗼». ~125 palabras, ~50 s. Todas las frases son de Otto, solo reordenadas y recortadas. Si se publica hoy, el gancho cambia a pasado («Hace dos años cumplí…») o se guarda para Los Ángeles 2028.
+
 ## 8 · Review estilo referencia (marca) — base: Rockintor AirVora
 - Cuando Otto trae un reel de referencia: desmontarlo (duración, cortes, % a cámara, tipo de planos, estructura) y escribir el guion en los mismos bloques.
 - **Bloques para grabar en selfie, 1–3 frases cada uno, 2–4 tomas por bloque:**

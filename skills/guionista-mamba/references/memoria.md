@@ -103,6 +103,7 @@ Lección del reel de TOFU/MOFU/BOFU (instagram.com/reel/DeX0fBQgekF): los virale
 ### Guiones de antes, escritos a mano (línea base)
 - «Guion para viajar a la Titan Desert Marruecos»: hecho a partir de la FAQ oficial de la Škoda Titan Desert Morocco. Lo valioso es la experiencia de Otto (Almería por tierra, e-SIM, Willy Asistencias, «menos es más»). Análisis en `registro-aprendizajes.md` §F y versión reescrita en `recetas.md` §14.
 - «¿Rígida o doble?» (YouTube largo con patrocinio de INBIKE): lo valioso son la opinión fuerte («antes de una mala doble, una buena rígida») y los ejemplos locales (Bogotá, Santander, los Llanos). Análisis en §G del registro y versión reescrita en `recetas.md` §15.
+- «Olímpicos de París» (2024): el texto crudo de Otto (papá boxeador, Barcelona 92, «el extraterrestre de Usain Bolt», «la piel chinita», «soy cursi») es mejor que la versión pulida, que suena genérica. Análisis en §H del registro y versión reescrita en `recetas.md` §7.
 
 ### Copy de la clínica, corto y contundente (aprobado el 5 nov)
 > Este domingo 8 de nov 🔥 Clínica de técnica en Central Park · 9–11 am. Calas, frenado, curvas y posición. Para MTB, gravel y hasta perfumados 😏 $75 · máx. 6 personas · quedan 3 cupos. Escríbeme por WhatsApp o DM y separa el tuyo. Más determinación, menos excusas 🐍

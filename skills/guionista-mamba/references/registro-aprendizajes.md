@@ -106,6 +106,20 @@ Otto lo escribió a mano a partir de las preguntas frecuentes oficiales de la Š
 
 **Patrón común de los guiones de antes (Titan y Rígida o doble):** empiezan por el principio y no por el gancho, siguen el orden de la información y no el de la emoción, ponen todo al mismo nivel sin pico, y cierran con despedida. Lo que más valor tiene en los dos es la experiencia personal y los ejemplos locales: **la skill parte siempre de ahí.**
 
+### H. Texto de antes · «Olímpicos de París» (2024): versión de Otto vs. versión pulida
+
+Otto escribió un texto crudo y existe una segunda versión «pulida». La comparación es la lección de voz más clara que hay.
+
+| QUÉ FUNCIONA (versión de Otto) | QUÉ FALLA (versión pulida) | LA REGLA |
+|---|---|---|
+| Imágenes propias: «mi viejo era boxeador profesional», «se le notaban las ganas de estar en el cuadrilátero», «los galácticos, los súper humanos», «el extraterrestre de Usain Bolt», «la piel se pone tan chinita que dan ganas de llorar», «soy cursi, ya lo saben». | Frases genéricas que podría firmar cualquiera: «celebración de la humanidad», «el epicentro de esa magia», «determinación inquebrantable», «cumplir un sueño es un acto de valentía», «convertir lo imposible en posible», «déjame decirte», «surcar la pista». | **Cuando Otto trae su propio texto, se respetan sus frases.** Solo se reordena (gancho, pico, remate) y se recorta. Nunca se «pule» hacia un lenguaje genérico. |
+| Honestidad concreta: «por alguna razón económica no se me daba». | La pulida lo vuelve abstracto: «el camino no fue fácil». | Lo concreto vence a lo abstracto: plata, años, nombres, lugares. |
+| Un detalle de Storyworthy de oro: el papá boxeador viviendo Barcelona 92. | — | El detalle familiar abre la historia; es el gancho natural. |
+| Momento de transformación claro: llegar a París y que sea «mucho más grande» de lo imaginado. | Las dos versiones cuentan en orden cronológico (1992 → 2008 → hoy). | Storyworthy: empezar cerca del momento del cambio o con la imagen más fuerte; el resto se cuenta rápido. |
+| Cierre con «más determinación, menos excusas». | — | Activo distintivo al cierre. |
+
+**Lista negra de frases acartonadas** (no se usan nunca en un guion de Otto): celebración de la humanidad · epicentro · magia (como relleno) · inquebrantable · acto de valentía · convertir lo imposible en posible · déjame decirte · surcar · sin lugar a dudas · en el mundo de hoy · viaje (como metáfora de vida) · pasión desbordante · llevar al siguiente nivel.
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.

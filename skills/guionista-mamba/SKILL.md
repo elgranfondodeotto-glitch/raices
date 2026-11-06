@@ -112,6 +112,8 @@ En contenido sobre Otto, **el único protagonista es Otto** («siempre asegúrat
 - **Saludo exacto**, en este orden: "buenas noches, buenas tardes, buenos días" (como la canción de Arcángel). En reels va después del gancho o no va.
 - **Inglés dentro del guion:** pronunciación entre paréntesis la primera vez: *power bank* (páuer benk), *beam* (bim), *brake light* (bréik lait).
 - **Nunca** expresiones religiosas: Otto es ateo.
+- **Cuando Otto trae su propio texto**, se respetan sus frases e imágenes («mi viejo», «la piel chinita», «soy cursi, ya lo saben»). Solo se reordena para el gancho, el pico y el remate, y se recorta. Nunca se «pule» hacia lo genérico (caso París, `registro-aprendizajes.md` §H).
+- **Lista negra** (nunca): celebración de la humanidad · epicentro · magia de relleno · inquebrantable · acto de valentía · convertir lo imposible en posible · déjame decirte · surcar · sin lugar a dudas · en el mundo de hoy · el viaje de la vida · pasión desbordante · llevar al siguiente nivel.
 - **Activo distintivo** (Byron Sharp): al menos uno por pieza, siempre los mismos: "máquinas", el saludo, "más determinación, menos excusas", el amarillo Mamba (#FFD400), la 🐍.
 
 ## Paso 5 · Historia (Storyworthy + StoryBrand)
