@@ -1,6 +1,9 @@
 # Recetas probadas de Otto
 
-Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes.md`). Se elige la receta según la ficha, se llena con el tema y se escribe en su voz. Si ninguna encaja, se usa la estructura de 8 piezas del SKILL.md.
+Se elige la receta según la ficha, se llena con el tema y se escribe en la voz de Otto (`voz-otto.md`). Si ninguna encaja, se usa la estructura de 8 piezas del SKILL.md.
+
+- **Recetas 1–13:** probadas con resultados (vistas, aprobación de Otto). Evidencia en `registro-aprendizajes.md`.
+- **Recetas 14–20:** formatos que Otto ya trabaja (guía de carrera, comparativa, entrevista, comentarios, comunidad, serie para principiantes), rediseñados con el sistema. Sus guiones manuales de antes **no son plantilla**: solo muestran su voz. Los ejemplos de estas recetas enseñan cómo se ve el sistema aplicado, no un texto para copiar.
 
 Índice rápido por objetivo:
 
@@ -63,7 +66,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 - Storyworthy: empezar cerca del momento de 5 segundos del cambio, en presente, con apuestas claras.
 - Para YouTube: empaquetar como "Lo que aprendí sufriendo [X]", no como diario. De cada historia larga salen 2–3 Shorts de problema → solución.
 
-### Ejemplo: «Olímpicos de París» reescrito con el sistema (receta 7, reel de ~45 s con voz de Otto)
+### Ejemplo: «Olímpicos de París» con el sistema aplicado (ejemplo, no plantilla) (receta 7, reel de ~45 s con voz de Otto)
 `TOFU/MOFU · Diana, 35, latina en Nueva York, tiene un sueño aplazado por plata · Trabajo: sentir que todavía puede · Conciencia: inconsciente · Receta 7 · Cialdini: simpatía + unidad · STEPPS: emoción + historias · CTA: envío · Métrica: envíos y retención`
 
 GANCHO
@@ -120,13 +123,13 @@ Texto en pantalla: «BARCELONA 92 → PARÍS 2024 🗼». ~125 palabras, ~50 s. 
 - Estructura de YouTube largo (SKILL.md): gancho ≤ 20 s con el problema que resuelve el producto → saludo → transparencia ("me lo mandó Ravemen para probarlo, opinión honesta") → unboxing de toda la caja (si aplica) → pruebas reales → lo que NO se puede mostrar se dice con honestidad (ej.: alcance de 115 m en estudio) → veredicto con pros y contras → link y código en voz y en la descripción.
 - Cifras "según Ravemen" (o la marca que sea) cuando no se prueban en cámara. Grabación en estudio con las luces apagadas para las luces.
 
-## 14 · Guía práctica «Lo que nadie te dice de ir a [carrera]» (MOFU, guardados; BOFU si Otto vende el viaje) — base: guion manual de la Titan Desert
+## 14 · Guía práctica «Lo que nadie te dice de ir a [carrera]» (MOFU, guardados; BOFU si Otto vende el viaje) — formato que Otto ya usa (su texto de antes: Titan Desert; solo voz, no plantilla)
 - **Materia prima:** la FAQ oficial de la carrera (fuente de los datos) + la experiencia de Otto (el valor). Nunca se copia la FAQ punto por punto.
 - **Corte:** 1 Short con los 3 datos que más sorprenden y un truco propio; el resto se reparte en una serie (un Short por pregunta) y en un video largo con capítulos (Vuelos · Campamentos · Bici · Equipaje · Comida · Comunicación · Asistencia).
 - **Pico:** el dato que da miedo o sorprende (en la Titan, la etapa maratón).
 - **Datos:** con año y fuente («según la organización»); reconfirmar antes de grabar.
 
-### Ejemplo: el guion manual de la Titan, reescrito con el sistema (Short de ~40 s)
+### Ejemplo: el guion manual de la Titan, con el sistema aplicado (ejemplo, no plantilla) (Short de ~40 s)
 `MOFU · Andrés, 38, colombiano, quiere correr la Titan y la logística lo frena · Trabajo: quitarse el miedo logístico · Conciencia: del problema · Receta 14 · Cialdini: autoridad + reciprocidad · STEPPS: valor práctico + historias · CTA: guardado · Métrica: guardados`
 
 GANCHO
@@ -156,13 +159,13 @@ Guárdalo para el día que te inscribas. Más determinación, menos excusas.
 Texto en pantalla: «CAMA TODAS LAS NOCHES… MENOS UNA 🏜️». Duración: ~105 palabras, ~42 s. Datos según la FAQ de la organización: reconfirmar vuelos chárter, comidas incluidas y etapa maratón para la edición del año. ⚠️ Confirmar con Otto cuántas veces corrió la Titan antes de decir el número.
 Lo que queda para la serie y el video largo: bici en camiones desde Barcelona, equipaje 20 kg + 5 kg en cabina, e-SIM, asistencia externa (Willy Asistencias), lavar ropa y «menos es más».
 
-## 15 · Comparativa de decisión «¿X o Y?» (YouTube largo MOFU + Shorts TOFU) — base: guion manual «¿Rígida o doble?»
+## 15 · Comparativa de decisión «¿X o Y?» (YouTube largo MOFU + Shorts TOFU) — formato que Otto ya usa (su texto de antes: «¿Rígida o doble?»; solo voz, no plantilla)
 - **Por qué sirve:** el canal vive de la búsqueda (42 % de las vistas). Una duda de compra con nombre propio («rígida o doble», «29 o 27,5», «gravel o MTB») se busca todo el año.
 - **Título** (< 60 caracteres, palabra clave al inicio): «Rígida o doble: cuál comprar según tu terreno».
 - **Estructura:** gancho ≤ 20 s con la opinión más polémica → saludo corto → transparencia de marca en una línea → capítulos por criterio de decisión (qué es cada una · terreno · tipo de carrera · presupuesto) → el patrocinador dentro del capítulo donde resuelve un problema real → pico = el caso más extremo de Otto → veredicto en una frase por perfil → pregunta para comentarios → tarjeta al siguiente video.
 - **De cada comparativa salen 2–3 Shorts:** la frase polémica (TOFU), el ejemplo regional (TOFU de envío: «mándaselo al parcero de Santander»), el criterio técnico (MOFU de guardado).
 
-### Ejemplo: «¿Rígida o doble?» reescrito con el sistema (gancho y mapa)
+### Ejemplo: «¿Rígida o doble?» con el sistema aplicado (ejemplo, no plantilla) (gancho y mapa)
 `MOFU · Julián, 34, Bucaramanga, rueda una rígida y está ahorrando para cambiar de bici · Trabajo: no botar la plata en la bici equivocada · Conciencia: de la solución · Receta 15 · Cialdini: autoridad + simpatía · CTA: comentario «R o D» + video siguiente · Métrica: retención a 30 s y comentarios`
 
 GANCHO (0–20 s)
@@ -183,7 +186,7 @@ Terreno roto o carreras de varios días: doble. Terreno bueno, XCO o presupuesto
 
 ⚠️ Verificar antes de grabar: bicis actuales de Otto, acuerdo vigente con INBIKE (entregable, código), producto exacto y datos de La Leyenda del Dorado.
 
-## 16 · Entrevista, charla pública o invitado de podcast (autoridad y comunidad) — base: «Semana de la Bicicleta», Funza
+## 16 · Entrevista, charla pública o invitado de podcast (autoridad y comunidad) — formato que Otto ya usa (su texto de antes: «Semana de la Bicicleta», Funza; solo voz, no plantilla)
 - **Para:** entrevistas de prensa o de alcaldía, charlas, paneles, ser invitado en un podcast o preparar las respuestas de Otto en «El Arte de Saber Sufrir».
 - **Apertura (≤ 15 s):** gracias en una línea + la frase más fuerte (confesión, historia o dato).
 - **Cada respuesta (30–60 s):** titular en una frase → prueba (experiencia propia, lo que vio, un caso) → cierre que se pueda citar. Así cada respuesta sale como clip de reel.
@@ -191,7 +194,7 @@ Terreno roto o carreras de varios días: doble. Terreno bueno, XCO o presupuesto
 - **Cierre:** volver a la frase de apertura (cierre en círculo) + «más determinación, menos excusas».
 - **Cifras con fuente** o dichas como observación propia.
 
-### Ejemplo: Funza reescrito con el sistema
+### Ejemplo: Funza con el sistema aplicado (ejemplo, no plantilla)
 `Autoridad/comunidad · Alcaldes y biciusuarios de la Sabana de Occidente · Trabajo: que la bici se tome en serio como transporte · Conciencia: del problema · Receta 16 · Cialdini: autoridad + unidad`
 
 APERTURA
@@ -209,7 +212,7 @@ El ciclismo es más que un deporte: es un estilo de vida. Úsenla para ir al tra
 
 Clips que salen: «En Colombia la bici fue transporte antes que moda» (TOFU, envío) · «Si hace diez años me hubieran dicho…» (MOFU, historia).
 
-## 17 · Respondiendo a tus comentarios (MOFU + lealtad) — base: «Tiendas confiables en AliExpress»
+## 17 · Respondiendo a tus comentarios (MOFU + lealtad) — formato que Otto ya usa (su texto de antes: «Tiendas confiables en AliExpress»; solo voz, no plantilla)
 - **Cuándo:** una pregunta se repite en comentarios, DMs o en la clínica. Revisar comentarios de YouTube e Instagram (vidIQ: vidiq_comment_insights) para encontrar estos temas.
 - **Gancho:** la pregunta tal como la hace la gente, en su idioma, con el miedo de fondo.
 - **Saludo + gracias** en una línea a quien preguntó (nombre o usuario; si el comentario es público).
@@ -219,7 +222,7 @@ Clips que salen: «En Colombia la bici fue transporte antes que moda» (TOFU, en
 - **Shorts que salen:** «3 señales de una tienda confiable» (MOFU, guardado) y la experiencia que salió mal (TOFU).
 - En Instagram, se puede responder al comentario con un reel (la respuesta aparece con el comentario de la persona).
 
-### Ejemplo: inicio reescrito con el sistema (el guion original llega cortado en «Suspensión y frenos»)
+### Ejemplo: inicio con el sistema aplicado (ejemplo, no plantilla) (el guion original llega cortado en «Suspensión y frenos»)
 `MOFU · Fercho, 29, quiere cambiar los frenos y la suspensión y no le alcanza para comprar en tienda · Trabajo: no perder la plata en un pedido · Conciencia: del problema · Receta 17 · Cialdini: reciprocidad + autoridad · CTA: guardado + pregunta en comentarios · Métrica: retención a 30 s, guardados y comentarios`
 
 GANCHO (0–20 s)
@@ -237,14 +240,14 @@ CAPÍTULOS 2… · Por categoría: Suspensión y frenos · [resto de categorías
 CIERRE
 Si te quedó una duda, déjala en los comentarios: de ahí sale el próximo video. Y si quieres ver cómo les fue a mis amigos comprando por AliExpress, ese video está aquí. Más determinación, menos excusas. [Tarjeta al video anterior + 2 s de aire]
 
-## 18 · Mensaje a la comunidad: Año Nuevo, gracias o regreso (lealtad) — base: mensaje de enero 2020
+## 18 · Mensaje a la comunidad: Año Nuevo, gracias o regreso (lealtad) — formato que Otto ya usa (su texto de antes: mensaje de enero 2020; solo voz, no plantilla)
 - **Formato:** post o reel corto a cámara (20–40 s), o copy largo.
 - **Abre** con la línea más graciosa o más verdadera (un refrán de Otto, una confesión). Nunca con la disculpa por la ausencia.
 - **Agradece** con un momento concreto del año.
 - **Mira hacia adelante:** qué viene (temporada, carrera, clínica, viaje).
 - **Cierra** con una pregunta a la comunidad + «más determinación, menos excusas».
 
-### Ejemplo: el mensaje de 2020 reescrito con el sistema
+### Ejemplo: el mensaje de 2020 con el sistema aplicado (ejemplo, no plantilla)
 `Lealtad · La comunidad que lo sigue desde Bucaramanga · Trabajo: sentirse parte · Receta 18 · Cialdini: simpatía + unidad · CTA: comentario · Métrica: comentarios`
 
 Hombre pelado no goza mujer bonita, ni mucho menos bicicleta gama alta. Por eso volví a trabajar. [risa]
@@ -253,7 +256,7 @@ Gracias por todo el apoyo del 2019: [⚠️ un momento concreto del año].
 Ya arranca la temporada 2020. ¿En qué carrera nos vemos? Déjamelo en los comentarios.
 Feliz año, máquinas. Más determinación, menos excusas.
 
-## 19 · Entrevista con un experto, Otto como anfitrión (MOFU, autoridad) — base: «SRAM Eagle AXS» con Pato Chávez
+## 19 · Entrevista con un experto, Otto como anfitrión (MOFU, autoridad) — formato que Otto ya usa (su texto de antes: «SRAM Eagle AXS» con Pato Chávez; solo voz, no plantilla)
 - **Antes de grabar:** juntar las preguntas reales (comentarios, clínica, tienda), agruparlas en 4–6 capítulos con nombre propio y ordenarlas por interés. Agregar siempre la pregunta de veredicto.
 - **Gancho (cold open, ≤ 20 s):** la respuesta más sorprendente del invitado (se elige en edición) + la frase con actitud de Otto + qué se lleva el espectador.
 - **Presentación del invitado:** una frase con 1–2 credenciales concretas.
@@ -263,7 +266,7 @@ Feliz año, máquinas. Más determinación, menos excusas.
 - **Cierre:** gracias al invitado + pregunta a la comunidad + tarjeta + «más determinación, menos excusas».
 - **Shorts que salen:** uno por capítulo (sobre todo el de mantenimiento/lavado y el de baterías: problema → solución).
 
-### Ejemplo: «SRAM Eagle AXS» reorganizado con el sistema
+### Ejemplo: «SRAM Eagle AXS» con el sistema aplicado (ejemplo, no plantilla)
 `MOFU · Felipe, 40, Bucaramanga, rueda con Eagle mecánico y duda si pasarse a AXS · Trabajo: decidir sin botar la plata · Conciencia: de la solución · Receta 19 · Cialdini: autoridad + reciprocidad · CTA: comentario + video siguiente · Métrica: retención por capítulo`
 
 GANCHO (≤ 20 s)
@@ -286,7 +289,7 @@ Gracias, Pato. Y tú, ¿te pasarías al AXS o sigues con el mecánico? Déjamelo
 
 ⚠️ Verificar con SRAM: autonomía, pesos, tiempos de carga, versiones y la norma IP69K. AXS usa su propio protocolo inalámbrico (no es «versión bluetooth»).
 
-## 20 · Serie para principiantes «No tenía ni idea» (MOFU, guardados) — base: «Qué ropa ponerse para ir en bici»
+## 20 · Serie para principiantes «No tenía ni idea» (MOFU, guardados) — formato que Otto ya usa (su texto de antes: «Qué ropa ponerse para ir en bici»; solo voz, no plantilla)
 - **Persona:** el que empieza (y la que empieza: incluir a las mujeres con ejemplos propios).
 - **Gancho:** el dolor del principiante dicho con sus palabras («me duele el culo», «esa silla me cobró arriendo»).
 - **Título en pantalla fijo:** «NO TENÍA NI IDEA · [tema]».
@@ -296,7 +299,7 @@ Gracias, Pato. Y tú, ¿te pasarías al AXS o sigues con el mecánico? Déjamelo
 - **Remate:** «si no tenías ni idea, ya no tienes excusa» + un CTA (guardado) + «más determinación, menos excusas».
 - **Shorts que salen:** el pico como TOFU de curiosidad y la tabla práctica (por ejemplo, badana según horas) como MOFU de guardado.
 
-### Ejemplo: «Qué ropa ponerse para ir en bici» reescrito con el sistema
+### Ejemplo: «Qué ropa ponerse para ir en bici» con el sistema aplicado (ejemplo, no plantilla)
 `MOFU · Laura, 31, Bucaramanga, empezó a rodar hace un mes y le duele todo · Trabajo: dejar de sufrir en la silla sin gastar de más · Conciencia: del problema · Receta 20 · Cialdini: reciprocidad + simpatía · CTA: guardado · Métrica: guardados y retención`
 
 GANCHO

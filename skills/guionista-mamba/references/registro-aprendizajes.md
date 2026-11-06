@@ -80,6 +80,8 @@ Las frases literales de Otto vienen de su memoria (§5). Cuando un dato de este 
 | Copy de la clínica corto y contundente (aprobado 5 nov). | — | Copys cortos; en Trial Reels, 1–2 líneas. |
 | — | La música que «ya sirve». | Música curada para cada video. |
 
+> **Secciones F–M · Guiones manuales de antes (2019–2024).** Otto los compartió para mostrar su estilo, su jerga y cómo se dirige a su público. **No son referencia de estructura para los guiones nuevos.** Lo que se aprende de ellos sobre la voz está en `voz-otto.md`; lo que cambia en la estructura está en estas tablas.
+
 ### F. Guiones manuales de antes (línea base) · «Guion para viajar a la Titan Desert Marruecos»
 
 Otto lo escribió a mano a partir de las preguntas frecuentes oficiales de la Škoda Titan Desert Morocco. Sirve para medir el cambio: qué se conserva y qué cambia con el sistema.

@@ -9,6 +9,7 @@ El problema que esta skill resuelve, en palabras de Otto: *"hemos venido creando
 
 Archivos de apoyo (leer cuando se indique):
 - `references/memoria.md`: **la memoria aportada por Otto** (reglas permanentes, casos aprobados, rechazos con su frase literal, marcas, flujo y datos vigentes). Leer sus secciones 2, 3 y 5 antes de cada guion. Manda sobre los demás archivos.
+- `references/voz-otto.md`: **cómo habla Otto** (jerga, trato tú/usted, mecánicas de humor, lo que se queda y lo que se va) y la prueba de voz. Leerla antes de escribir cualquier guion.
 - `references/recetas.md`: las 12 recetas probadas (Blevins, Vidaurre, Adivina, Nunca pero nunca, Charla, Rockintor, venta de clínica…).
 - `references/registro-aprendizajes.md`: qué funcionó, qué rechazó Otto y la regla de cada cosa. Se actualiza en cada uso.
 - `references/marco-estrategico.md`: cómo aplicar cada herramienta (Schwartz, Cialdini, Hormozi, Storyworthy…).
@@ -107,15 +108,18 @@ En contenido sobre Otto, **el único protagonista es Otto** («siempre asegúrat
 
 ## Paso 4 · La voz de Otto
 
-- Dinámico, dicharachero, con energía, cercano y suelto. Sin frases acartonadas ni de LinkedIn. Una idea por frase. Humor cada 15–20 s.
-- Refranes, exageraciones, chascarrillos intelectuales y detalle técnico.
-- **Frases suyas** (con medida, no todas en cada guion): "máquinas", "nada más y nada menos", "el diablo está en los detalles", "madre mía", "lo que está bien hecho, está bien hecho", "pónganle cuidado", "¿okay?", "o sea", "pico cerrao", "las patas" (nunca "pies"), "este cabrón" / "cabrón" (con medida), "top of the line", "la bici no se mantiene sola", "la mamá de los pollitos", "vamos al grano", "esa silla me cobró arriendo", "si le duele hasta el pelo, ¿qué está esperando?", "si no tenías ni idea, ya no tienes excusa", "hombre pelado no goza mujer bonita, ni mucho menos bicicleta gama alta" (refrán), "¡y que viva el mountain bike, cabrones!", "más determinación, menos excusas", "vales oro". "Los quiero como si los hubiera parido" solo en casos puntuales. Ciclistas de ruta: "perfumados". Su novia: "la mía". Amigos: "parcero".
-- **Saludo exacto**, en este orden: "buenas noches, buenas tardes, buenos días" (como la canción de Arcángel). En reels va después del gancho o no va.
+La guía completa está en `references/voz-otto.md`. Sale de los textos que Otto escribió a mano, que **no son plantilla de estructura**: muestran cómo habla. El guion nuevo debe sonar como él y estar construido con el sistema.
+
+- Dinámico, dicharachero, con energía, cercano y suelto. Una idea por frase. Humor cada 15–20 s, con sus mecánicas: exageración física, burlarse de sí mismo, **anticipar la objeción con su nombre alargado** («y sé que muchos van a decir: Ottooo…»), refranes torcidos, preguntarse y responderse, rivalidad con los perfumados.
+- Le habla a su gente como en la rodada: «mi gente», «máquinas», «colegas», «parcero», «sí señores, señoritas y niños». Mezcla «tú», «usted» y «ustedes» como se habla en Santander; no se corrige.
+- **Banco de expresiones** (2–4 por guion corto, con medida): ver `voz-otto.md` §2. Siempre «las patas», nunca «pies». Ciclistas de ruta: «perfumados». Su novia: «la mía». «Los quiero como si los hubiera parido» solo en casos puntuales.
+- Siempre aparece algo suyo: una experiencia propia, un lugar real, sus raíces, honestidad con la plata.
+- **Saludo exacto**, en este orden: «buenas noches, buenas tardes, buenos días» (como la canción de Arcángel). En reels va después del gancho o no va.
 - **Inglés dentro del guion:** pronunciación entre paréntesis la primera vez: *power bank* (páuer benk), *beam* (bim), *brake light* (bréik lait).
-- **Nunca** expresiones religiosas: Otto es ateo.
-- **Cuando Otto trae su propio texto**, se respetan sus frases e imágenes («mi viejo», «la piel chinita», «soy cursi, ya lo saben»). Solo se reordena para el gancho, el pico y el remate, y se recorta. Nunca se «pule» hacia lo genérico (caso París, `registro-aprendizajes.md` §H).
+- **Nunca** expresiones ni referencias religiosas, ni de chiste («el nazareno»): Otto es ateo.
+- **Cuando Otto trae su propio texto**, se respetan sus frases e imágenes. Solo se reordena para el gancho, el pico y el remate, y se recorta. Nunca se «pule» hacia lo genérico (caso París).
 - **Lista negra** (nunca): celebración de la humanidad · epicentro · magia de relleno · inquebrantable · acto de valentía · convertir lo imposible en posible · déjame decirte · surcar · sin lugar a dudas · en el mundo de hoy · el viaje de la vida · pasión desbordante · llevar al siguiente nivel.
-- **Activo distintivo** (Byron Sharp): al menos uno por pieza, siempre los mismos: "máquinas", el saludo, "más determinación, menos excusas", el amarillo Mamba (#FFD400), la 🐍.
+- **Activo distintivo:** al menos uno por pieza, siempre los mismos: «máquinas», el saludo, «más determinación, menos excusas» (su firma desde 2019), el amarillo Mamba (#FFD400), la 🐍.
 
 ## Paso 5 · Historia (Storyworthy + StoryBrand)
 - El momento de 5 segundos del cambio ("antes yo creía X… y en ese instante entendí Y"); empezar cerca de él; en presente; apuestas claras.
@@ -124,6 +128,7 @@ En contenido sobre Otto, **el único protagonista es Otto** («siempre asegúrat
 ## Paso 6 · Entregable (formato fijo)
 
 1. **Brief** en una línea.
+1b. **3 ganchos alternativos** (uno por mecánica distinta: imagen, frase de Otto, pregunta del espectador), con el recomendado primero. Los otros dos sirven como Trial Reels.
 2. **Guion para teleprompter**, palabra por palabra, en bloques con etiqueta (GANCHO, INTRO, CUERPO 1, BUCLE, PICO, REMATE; o A–E en marca). Acciones [entre corchetes], no se leen. Sin tablas (excepción: receta Adivina).
 3. **Texto en pantalla:** gancho escrito y palabras a resaltar. Nunca tapa la cara.
 4. **Plano del gancho y del pico** (1 línea cada uno) y B-roll mínimo motivado por la historia; si hay material ya grabado (Lake Placid, Titan, Colombia, Central Park, podcast), dilo y úsalo antes de pedir grabar.
@@ -151,7 +156,7 @@ El guionista **no renderiza ni exporta** («No generes la edición… prepara la
 - [ ] Refuerza el posicionamiento.
 - [ ] TOFU con 2+ STEPPS; MOFU regala el truco completo; BOFU con ecuación de valor y prueba o escasez REAL.
 - [ ] Bucles honestos y cerrados; pico marcado; termina en el remate, sin despedida; loop si se puede.
-- [ ] Suena a Otto, con al menos un activo distintivo; nada acartonado; nada religioso.
+- [ ] Pasa la **prueba de voz** de `voz-otto.md` §7: se diría en la rodada, 2+ expresiones suyas, 1 mecánica de humor, 1 experiencia o lugar real, nada de la lista negra, firma al cierre.
 - [ ] Cero datos inventados: cada cifra, código, fecha, cupo y spec tiene fuente.
 - [ ] Otto es el único protagonista; si es remix, no exige grabar nada.
 - [ ] Si hay marca: no está en el gancho, va dentro de una historia, entregable cumplido, transparencia, código verificado, sin mencionar otras marcas, lesión ni 2027.

@@ -101,6 +101,7 @@ Lección del reel de TOFU/MOFU/BOFU (instagram.com/reel/DeX0fBQgekF): los virale
 - Ravemen FR1500 y CL200: un review dedicado por luz, grabado en estudio con las luces apagadas. La FR1500 lleva el unboxing de toda la caja. Se dice con honestidad lo que no se puede mostrar en estudio (alcance de 115 m). Cifras «según Ravemen».
 
 ### Guiones de antes, escritos a mano (línea base)
+Otto, 6 nov 2026: estos guiones «no son referencia para los nuevos guiones; solo es para que puedas entender que he estado haciendo y a partir de esto construir lo nuevo… lo importante ahora es llevar los guiones al siguiente nivel y asegurarnos de que todo quede coherente a mi estilo». La voz que muestran está en `voz-otto.md`.
 - «Guion para viajar a la Titan Desert Marruecos»: hecho a partir de la FAQ oficial de la Škoda Titan Desert Morocco. Lo valioso es la experiencia de Otto (Almería por tierra, e-SIM, Willy Asistencias, «menos es más»). Análisis en `registro-aprendizajes.md` §F y versión reescrita en `recetas.md` §14.
 - «¿Rígida o doble?» (YouTube largo con patrocinio de INBIKE): lo valioso son la opinión fuerte («antes de una mala doble, una buena rígida») y los ejemplos locales (Bogotá, Santander, los Llanos). Análisis en §G del registro y versión reescrita en `recetas.md` §15.
 - «Olímpicos de París» (2024): el texto crudo de Otto (papá boxeador, Barcelona 92, «el extraterrestre de Usain Bolt», «la piel chinita», «soy cursi») es mejor que la versión pulida, que suena genérica. Análisis en §H del registro y versión reescrita en `recetas.md` §7.

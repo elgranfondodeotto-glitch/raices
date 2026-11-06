@@ -10,4 +10,6 @@ Carpeta lista para subir a claude.ai (Ajustes › Capacidades › Skills › sub
 - Entregable ampliado: dónde y cuándo publicar + lista de datos verificados.
 
 - **Memoria de Otto** (`references/memoria.md`): reglas permanentes, casos aprobados, rechazos con su frase literal, marcas, flujo de kit para Code y datos vigentes. Manda sobre el resto.
+- **Guía de voz** (`references/voz-otto.md`): jerga, trato tú/usted, mecánicas de humor y prueba de voz, sacadas de 8 guiones manuales de Otto (que no son plantilla).
+- 3 ganchos alternativos en cada entregable (los extra sirven como Trial Reels).
 - Modo remix (solo material existente), Otto como único protagonista, entrega de kit EDIT_SPEC.md para Code (sin renders).
