@@ -9,5 +9,5 @@ Carpeta lista para subir a claude.ai (Ajustes › Capacidades › Skills › sub
 - **Registro de aprendizajes** en 3 columnas que se alimenta en cada uso con la frase literal de Otto.
 - Entregable ampliado: dónde y cuándo publicar + lista de datos verificados.
 
-## Pendiente (no accesible desde la sesión en la nube)
-Memoria de claude.ai, búsqueda en chats anteriores y los EDIT_SPEC.md del Mac. Las filas ⏳ del registro se completan la primera vez que la skill corra en claude.ai.
+- **Memoria de Otto** (`references/memoria.md`): reglas permanentes, casos aprobados, rechazos con su frase literal, marcas, flujo de kit para Code y datos vigentes. Manda sobre el resto.
+- Modo remix (solo material existente), Otto como único protagonista, entrega de kit EDIT_SPEC.md para Code (sin renders).
