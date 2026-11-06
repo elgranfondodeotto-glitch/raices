@@ -13,6 +13,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno |
 | Autoridad y comunidad | 16 Entrevista, charla pública o invitado de podcast |
+| MOFU + lealtad | 17 Respondiendo a tus comentarios |
 
 ---
 
@@ -207,3 +208,31 @@ MENSAJE A LOS BICIUSUARIOS Y DEPORTISTAS
 El ciclismo es más que un deporte: es un estilo de vida. Úsenla para ir al trabajo, para entrenar, para viajar o para rodar en familia. Hace diez años yo no le hubiera creído a nadie. Hoy se los digo yo: súbanse a la bici. Más determinación, menos excusas.
 
 Clips que salen: «En Colombia la bici fue transporte antes que moda» (TOFU, envío) · «Si hace diez años me hubieran dicho…» (MOFU, historia).
+
+## 17 · Respondiendo a tus comentarios (MOFU + lealtad) — base: «Tiendas confiables en AliExpress»
+- **Cuándo:** una pregunta se repite en comentarios, DMs o en la clínica. Revisar comentarios de YouTube e Instagram (vidIQ: vidiq_comment_insights) para encontrar estos temas.
+- **Gancho:** la pregunta tal como la hace la gente, en su idioma, con el miedo de fondo.
+- **Saludo + gracias** en una línea a quien preguntó (nombre o usuario; si el comentario es público).
+- **Cuerpo:** las N señales o pasos, cada uno con la experiencia de Otto (qué compró, qué le llegó, qué salió mal). Capítulos con nombre propio.
+- **Pico:** la señal que nadie revisa o el error que le costó plata a Otto.
+- **Cierre:** «si te quedó una duda, déjala en los comentarios: de ahí sale el próximo video» (cierra el volante) + tarjeta al video relacionado + «más determinación, menos excusas».
+- **Shorts que salen:** «3 señales de una tienda confiable» (MOFU, guardado) y la experiencia que salió mal (TOFU).
+- En Instagram, se puede responder al comentario con un reel (la respuesta aparece con el comentario de la persona).
+
+### Ejemplo: inicio reescrito con el sistema (el guion original llega cortado en «Suspensión y frenos»)
+`MOFU · Fercho, 29, quiere cambiar los frenos y la suspensión y no le alcanza para comprar en tienda · Trabajo: no perder la plata en un pedido · Conciencia: del problema · Receta 17 · Cialdini: reciprocidad + autoridad · CTA: guardado + pregunta en comentarios · Métrica: retención a 30 s, guardados y comentarios`
+
+GANCHO (0–20 s)
+¿Cómo sabes si una tienda de AliExpress te va a mandar la suspensión que pagaste… o un ladrillo? [Plano: celular con la tienda abierta y una caja de componente en la mesa] Después de mi video de AliExpress me llegaron [⚠️ número real] preguntas con esa misma duda. Hoy les muestro lo que reviso yo antes de comprar un componente.
+
+SALUDO
+Buenas noches, buenas tardes, buenos días. Bienvenidos a El Gran Fondo De Otto. Y gracias a Fercho Molano y a Carlos Lara, que preguntaron primero: este video es suyo.
+
+CAPÍTULO 1 · El sello de tienda top
+[Qué es, dónde se ve en la parte de arriba de la tienda y qué mide, según AliExpress: calidad del servicio, atención al cliente, entregas, posventa y reputación. ⚠️ Verificar el nombre y los criterios vigentes del programa.] El link está en la descripción.
+
+CAPÍTULOS 2… · Por categoría: Suspensión y frenos · [resto de categorías del guion de Otto]
+[Cada uno: qué tienda o señal revisa Otto + qué le llegó + lo que le salió mal.]
+
+CIERRE
+Si te quedó una duda, déjala en los comentarios: de ahí sale el próximo video. Y si quieres ver cómo les fue a mis amigos comprando por AliExpress, ese video está aquí. Más determinación, menos excusas. [Tarjeta al video anterior + 2 s de aire]

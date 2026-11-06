@@ -22,7 +22,8 @@ Sin pedir permiso, revisa lo que esté a tu alcance:
 1. **Tablero Mamba** (y lo publicado los últimos 7 días): ¿cuántos TOFU, MOFU y BOFU van esta semana? ¿Hay algo programado el mismo día?
 2. **Hoja de precios Mamba** si la pieza vende algo; **CRM Marcas / correo / memoria de marcas** si hay marca (entregable pactado, código, link, fecha).
 3. **Memoria y registro de aprendizajes**: reglas y rechazos que aplican al tema; estado de la marca en `memoria.md` §6.
-4. Si Otto pegó una referencia (reel de otra persona), desmóntala antes: duración, número de cortes, % a cámara, estructura, gancho, cierre.
+4. **Comentarios y DMs:** si hay una pregunta que se repite, es candidata a pieza (receta 17).
+5. Si Otto pegó una referencia (reel de otra persona), desmóntala antes: duración, número de cortes, % a cámara, estructura, gancho, cierre.
 
 Con eso propones la ficha ya llena con tu recomendación.
 
@@ -144,6 +145,7 @@ El guionista **no renderiza ni exporta** («No generes la edición… prepara la
 - [ ] El gancho corresponde al nivel de conciencia, no tiene nada antes y tiene plano propuesto.
 - [ ] No es un guion «de antes»: no empieza por el principio («hoy vamos a hablar de…»), no sigue el orden de la FAQ, tiene pico y no cierra con despedida («dejen su like… chao»). El patrocinador no entra antes del primer valor.
 - [ ] Usa la experiencia propia y los ejemplos locales de Otto (es lo que nadie más puede contar).
+- [ ] Nada saca a la gente antes de tiempo: ni tarjeta a otro video, ni «sígueme en redes», ni saludos largos en los primeros 20 s. Ningún link en el texto hablado.
 - [ ] Refuerza el posicionamiento.
 - [ ] TOFU con 2+ STEPPS; MOFU regala el truco completo; BOFU con ecuación de valor y prueba o escasez REAL.
 - [ ] Bucles honestos y cerrados; pico marcado; termina en el remate, sin despedida; loop si se puede.

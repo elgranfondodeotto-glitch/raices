@@ -133,6 +133,16 @@ Respuestas preparadas para una entrevista o charla pública: apertura, tres preg
 | «El ciclismo está en el ADN de los colombianos», «el que lo prueba se queda». | Cierre con lista genérica de beneficios («beneficios y bondades es lo que les sobra»). | Cierre con la imagen personal, no con la lista. |
 | — | Texto en mayúsculas y con errores de tipeo. | En el teleprompter, ortografía limpia. ⚠️ Preguntar a Otto si lee mejor en mayúsculas; si sí, se respeta. |
 
+### J. Guion de antes · YouTube largo «Cómo identificar tiendas confiables en AliExpress» (segunda parte)
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| **El tema salió de los comentarios:** después del video de AliExpress, la gente preguntó por los links de las tiendas. Es Jobs to Be Done puro: la audiencia dijo qué necesita. | Los primeros segundos mandan a la gente a otro video («te recomiendo que vayas a verlo… aquí te dejo la tarjeta»). | **Los temas que piden los comentarios son prioridad.** Pero la tarjeta a otro video nunca va en los primeros 20 s: va donde sea útil o al final. |
+| Gracias públicas a quienes preguntaron y saludo a suscriptores con nombre (Fercho Molano, Carlos Lara): construye los 1.000 fans verdaderos. | Antes de dar valor hay: saludo «MI Genteee!!!!!», el contexto del video anterior, los saludos, el porqué del video y «si aún no me sigues…». Más de 30 s sin entrar al tema. | El reconocimiento a la comunidad va **en una línea, después del gancho**, o al final. Pedir que lo sigan, solo al final (o nunca: lo pide el contenido). |
+| Valor práctico real (MOFU) y un tema con búsqueda constante. | Un link pegado dentro del texto hablado. | Los links nunca van en el guion hablado: van en la descripción o en el comentario fijado; en voz, «el link está en la descripción». |
+| — | Datos de la plataforma (nombre del sello, criterios para otorgarlo) sin fecha. | Los programas de las plataformas cambian de nombre y de reglas: verificar el nombre y los criterios vigentes antes de grabar. Si hay links de afiliado, decirlo. |
+| — | Tono de manual: «lo primero que debemos saber es que…», «analicemos cada una para que veamos de qué se trata». | Se dice como lo diría Otto en la rodada, con su experiencia: qué compró, qué le llegó, qué le salió mal. |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.
