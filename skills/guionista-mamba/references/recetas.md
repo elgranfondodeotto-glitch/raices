@@ -12,7 +12,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno · 18 Mensaje a la comunidad (Año Nuevo, gracias, regreso) |
-| Autoridad y comunidad | 16 Entrevista, charla pública o invitado de podcast |
+| Autoridad y comunidad | 16 Entrevista, charla pública o invitado de podcast · 19 Entrevista con un experto (Otto anfitrión) |
 | MOFU + lealtad | 17 Respondiendo a tus comentarios |
 
 ---
@@ -252,3 +252,36 @@ Y sí, extraño el año sabático y andar de loco por Bucaramanga en la Mamba co
 Gracias por todo el apoyo del 2019: [⚠️ un momento concreto del año].
 Ya arranca la temporada 2020. ¿En qué carrera nos vemos? Déjamelo en los comentarios.
 Feliz año, máquinas. Más determinación, menos excusas.
+
+## 19 · Entrevista con un experto, Otto como anfitrión (MOFU, autoridad) — base: «SRAM Eagle AXS» con Pato Chávez
+- **Antes de grabar:** juntar las preguntas reales (comentarios, clínica, tienda), agruparlas en 4–6 capítulos con nombre propio y ordenarlas por interés. Agregar siempre la pregunta de veredicto.
+- **Gancho (cold open, ≤ 20 s):** la respuesta más sorprendente del invitado (se elige en edición) + la frase con actitud de Otto + qué se lleva el espectador.
+- **Presentación del invitado:** una frase con 1–2 credenciales concretas.
+- **Transparencia** si hay relación con la marca.
+- **Por capítulo:** Otto pregunta en palabras simples → el invitado responde → Otto repregunta lo que el espectador no entendió o aporta su experiencia → resumen de una frase. Un mini gancho de «lo que viene» al cambiar de capítulo.
+- **Pico:** el veredicto del invitado («¿para quién vale la pena y para quién no?»).
+- **Cierre:** gracias al invitado + pregunta a la comunidad + tarjeta + «más determinación, menos excusas».
+- **Shorts que salen:** uno por capítulo (sobre todo el de mantenimiento/lavado y el de baterías: problema → solución).
+
+### Ejemplo: «SRAM Eagle AXS» reorganizado con el sistema
+`MOFU · Felipe, 40, Bucaramanga, rueda con Eagle mecánico y duda si pasarse a AXS · Trabajo: decidir sin botar la plata · Conciencia: de la solución · Receta 19 · Cialdini: autoridad + reciprocidad · CTA: comentario + video siguiente · Métrica: retención por capítulo`
+
+GANCHO (≤ 20 s)
+[Cold open: la respuesta más sorprendente de Pato, elegida en edición]
+Para los que pensaban que lo habían visto todo en tecnología de montaña, lamento defraudarlos: hoy les traigo la mamá de los pollitos. SRAM Eagle AXS, cambios sin cables. Y le hice todas las preguntas que ustedes me hacen a alguien que lleva 27 años en la montaña.
+
+SALUDO Y PRESENTACIÓN
+Buenas noches, buenas tardes, buenos días. Bienvenidos a El Gran Fondo De Otto. Hoy está conmigo Pato Chávez, líder de marca de Specialized Bucaramanga [⚠️ confirmar cargo actual]. Vamos al grano.
+
+CAPÍTULOS (las 19 preguntas de Otto, agrupadas)
+1. **Qué cambia sin cables:** beneficios del sistema · versiones en el mercado · diferencia del tensor AXS con el Eagle mecánico · resistencia y durabilidad del tensor · diferencia de peso entre mecánico y AXS.
+2. **Baterías:** duración de la batería del tensor y del mando · por qué tienen autonomía distinta · peso de la batería · cómo saber el nivel de carga · cuánto tarda en recargar.
+3. **La app de SRAM, montaje y sincronización:** para qué sirve la app · cómo se monta y se sincroniza · el acelerómetro integrado.
+4. **Viajar, lavar y mantener:** recomendaciones para viajar con la bici · lavado y mantenimiento de un sistema electrónico · qué es la norma IP69K.
+5. **Compatibilidad:** accesorios AXS de montaña con AXS de ruta · con qué casete y qué plato viene.
+6. **PICO · Veredicto (pregunta nueva):** ¿para quién vale la pena el AXS y para quién no?
+
+CIERRE
+Gracias, Pato. Y tú, ¿te pasarías al AXS o sigues con el mecánico? Déjamelo en los comentarios. Más determinación, menos excusas. [Tarjeta + 2 s de aire]
+
+⚠️ Verificar con SRAM: autonomía, pesos, tiempos de carga, versiones y la norma IP69K. AXS usa su propio protocolo inalámbrico (no es «versión bluetooth»).

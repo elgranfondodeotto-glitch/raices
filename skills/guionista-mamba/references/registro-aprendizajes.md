@@ -151,6 +151,17 @@ Respuestas preparadas para una entrevista o charla pública: apertura, tres preg
 | Gratitud genuina a la comunidad (etapa de lealtad). | Deseos genéricos («feliz año lleno de buenas cosas») y agradecimiento sin nada concreto. | Agradecer con un momento o un dato concreto del año (una carrera, un alumno, una rodada). |
 | Mira hacia adelante: arranca la temporada. | Cierre vago: «espero encontrarlos a todos por allí». La mejor frase queda enterrada al final. | Cierre con una pregunta que haga hablar a la comunidad («¿en qué carrera nos vemos?») y, si existe, dónde encontrarse (rodada, clínica). |
 
+### L. Guion de antes · YouTube largo «SRAM Eagle AXS» con invitado (Pato Chávez, Specialized Bucaramanga)
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| Gancho con actitud y expresión propia: «para los que pensaban que lo habían visto todo… lamento defraudarlos, hoy les traigo **la mamá de los pollitos**». | Abre con «Bueno mi gente» antes de esa frase. | La frase con actitud va primero, sin muletilla antes. |
+| Autoridad prestada: un invitado con credenciales concretas (líder de marca Specialized Bucaramanga, 27 años en MTB). | — | Presentar al invitado con 1–2 credenciales concretas, en una frase. |
+| «Vamos al grano»: Otto sabe que hay que entrar rápido al tema. | — | Se conserva como transición. |
+| Las preguntas son las que tiene la gente de verdad (baterías, viajar con la bici, lavado, IP69K, compatibilidad). Datos del canal: las curvas de retención **suben** cuando aparece una sección técnica con nombre propio (SRAM AXS, Lefty, SID Ultimate). | **19 preguntas seguidas, todas con el mismo peso**, sin capítulos, sin pico, sin veredicto y sin cierre. | **Agrupar las preguntas en 4–6 capítulos con nombre propio**, ordenados por interés (lo más buscado primero), y terminar con una pregunta de veredicto: «¿para quién vale la pena?». |
+| — | Otto solo pregunta: no aporta su experiencia ni traduce lo técnico. | Otto es el guía del espectador: repregunta en palabras simples, cuenta su experiencia y cierra cada capítulo con un resumen de una frase. |
+| — | Datos técnicos sin verificar (el guion dice «versión bluetooth»: AXS usa su propio protocolo inalámbrico; la app se conecta por Bluetooth). Producto presentado como «nuevo». | Verificar las specs con la marca antes de grabar; no decir «nuevo» si el video va a vivir años en búsqueda. Transparencia si hay relación con la marca (hoy existe un acuerdo pagado con SRAM/RockShox). |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.
