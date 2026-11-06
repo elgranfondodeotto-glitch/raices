@@ -8,7 +8,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 |---|---|
 | TOFU · alcance y envíos | 1 La bici del campeón · 2 Hype en una toma · 3 Adivina a ciegas · 4 "30 segundos en…" · 10 Actitud/estilo |
 | TOFU · seguidores nuevos | 11 Colaboración o reto con alguien conocido |
-| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera |
+| MOFU · guardados | 5 Nunca pero nunca · 6 Charla sobre B-roll · 7 Historia con aprendizaje · 14 Guía práctica de carrera · 15 Comparativa de decisión «¿X o Y?» |
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno |
@@ -133,3 +133,30 @@ Guárdalo para el día que te inscribas. Más determinación, menos excusas.
 
 Texto en pantalla: «CAMA TODAS LAS NOCHES… MENOS UNA 🏜️». Duración: ~105 palabras, ~42 s. Datos según la FAQ de la organización: reconfirmar vuelos chárter, comidas incluidas y etapa maratón para la edición del año. ⚠️ Confirmar con Otto cuántas veces corrió la Titan antes de decir el número.
 Lo que queda para la serie y el video largo: bici en camiones desde Barcelona, equipaje 20 kg + 5 kg en cabina, e-SIM, asistencia externa (Willy Asistencias), lavar ropa y «menos es más».
+
+## 15 · Comparativa de decisión «¿X o Y?» (YouTube largo MOFU + Shorts TOFU) — base: guion manual «¿Rígida o doble?»
+- **Por qué sirve:** el canal vive de la búsqueda (42 % de las vistas). Una duda de compra con nombre propio («rígida o doble», «29 o 27,5», «gravel o MTB») se busca todo el año.
+- **Título** (< 60 caracteres, palabra clave al inicio): «Rígida o doble: cuál comprar según tu terreno».
+- **Estructura:** gancho ≤ 20 s con la opinión más polémica → saludo corto → transparencia de marca en una línea → capítulos por criterio de decisión (qué es cada una · terreno · tipo de carrera · presupuesto) → el patrocinador dentro del capítulo donde resuelve un problema real → pico = el caso más extremo de Otto → veredicto en una frase por perfil → pregunta para comentarios → tarjeta al siguiente video.
+- **De cada comparativa salen 2–3 Shorts:** la frase polémica (TOFU), el ejemplo regional (TOFU de envío: «mándaselo al parcero de Santander»), el criterio técnico (MOFU de guardado).
+
+### Ejemplo: «¿Rígida o doble?» reescrito con el sistema (gancho y mapa)
+`MOFU · Julián, 34, Bucaramanga, rueda una rígida y está ahorrando para cambiar de bici · Trabajo: no botar la plata en la bici equivocada · Conciencia: de la solución · Receta 15 · Cialdini: autoridad + simpatía · CTA: comentario «R o D» + video siguiente · Métrica: retención a 30 s y comentarios`
+
+GANCHO (0–20 s)
+Antes de comprarte una mala doble, cómprate una buena rígida. [Plano: las dos bicis lado a lado] Y sé que con esa frase ya me gané la mitad de los comentarios. Tengo las dos en el garaje y las he llevado al límite: en cross country, en maratones de siete días y en las trochas de Santander. Hoy les digo cuál necesitan según su terreno, su carrera y su bolsillo.
+
+SALUDO
+Buenas noches, buenas tardes, buenos días. Bienvenidos a El Gran Fondo De Otto. [Si hay marca:] Este video lo hacemos con INBIKE; opinión honesta, como siempre.
+
+CAPÍTULOS
+1. **Rígida y doble en 30 segundos:** rígida = suspensión adelante; doble = suspensión adelante y amortiguador atrás. (Las rígidas sin suspensión existen, pero no son el tema.)
+2. **Según tu terreno:** Bogotá y vías en buen estado → rígida. Santander, el Engresque bajando a Zapatoca, los caminos de Lebrija, el matadero del Pato → doble. Los Llanos: «todo es plano, pero tiene más piedra que una cantera» → doble. Mini gancho: «y en competencia la cosa cambia».
+3. **Según tu carrera:** XCO → la rígida es un caballo cuarto de milla: rápida y reactiva (aunque cada vez más corren con doble). Maratón y por etapas → la doble pasa de lujo a necesidad. [Patrocinador aquí: siete días seguidos, los calambres son el enemigo; INBIKE Ultra Endurance, lo que sintió Otto + beneficios «según INBIKE».]
+4. **PICO · Mi caso extremo:** La Leyenda del Dorado: más de 16.000 metros de desnivel, siete días de candela y caminos sacados de una película de terror. [⚠️ Confirmar qué bici usó o usará; en nov 2026 la doble actual de Otto es la Mamba 2027, Specialized Epic 8.]
+5. **Según tu bolsillo:** una mala doble es un problema: mantenimiento caro y difícil de arreglar en ruta. Por eso: antes de una mala doble, una buena rígida (el final empalma con el gancho).
+
+VEREDICTO Y CIERRE
+Terreno roto o carreras de varios días: doble. Terreno bueno, XCO o presupuesto justo: buena rígida. ¿Y tú cuál llevas? Comenta R o D. Y si quieres ver cómo se arma una doble de competencia, el dream build está aquí arriba. Más determinación, menos excusas. [2 s de aire]
+
+⚠️ Verificar antes de grabar: bicis actuales de Otto, acuerdo vigente con INBIKE (entregable, código), producto exacto y datos de La Leyenda del Dorado.

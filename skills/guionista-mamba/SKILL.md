@@ -140,6 +140,8 @@ El guionista **no renderiza ni exporta** («No generes la edición… prepara la
 - [ ] La ficha está cerrada y el brief encabeza el guion, con la receta elegida.
 - [ ] Un objetivo, una persona, una idea, un CTA; el CTA corresponde a la etapa.
 - [ ] El gancho corresponde al nivel de conciencia, no tiene nada antes y tiene plano propuesto.
+- [ ] No es un guion «de antes»: no empieza por el principio («hoy vamos a hablar de…»), no sigue el orden de la FAQ, tiene pico y no cierra con despedida («dejen su like… chao»). El patrocinador no entra antes del primer valor.
+- [ ] Usa la experiencia propia y los ejemplos locales de Otto (es lo que nadie más puede contar).
 - [ ] Refuerza el posicionamiento.
 - [ ] TOFU con 2+ STEPPS; MOFU regala el truco completo; BOFU con ecuación de valor y prueba o escasez REAL.
 - [ ] Bucles honestos y cerrados; pico marcado; termina en el remate, sin despedida; loop si se puede.

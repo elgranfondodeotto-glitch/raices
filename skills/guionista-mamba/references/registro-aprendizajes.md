@@ -93,6 +93,19 @@ Otto lo escribió a mano a partir de las preguntas frecuentes oficiales de la Š
 | — | Datos que cambian cada edición (horarios, 20 kg + 5 kg, almacenes de Barcelona) sin año ni fuente. | Cada dato logístico lleva la edición y la fuente («según la organización, edición 2026») y se reconfirma antes de grabar. |
 | — | Willy Asistencias aparece como recomendación. | Antes de nombrar una empresa, confirmar con Otto si hay acuerdo: si lo hay, se dice con transparencia; si no, se nombra como recomendación personal. |
 
+### G. Guion manual de antes · YouTube largo «¿Rígida o doble?» (patrocinio INBIKE)
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| Frases con opinión fuerte que dividen y se recuerdan: «antes de comprarme una mala doble prefiero llevar una buena rígida», «un tema que levanta muchos callos y rompe corazones», la rígida en XCO como «un caballo cuarto de milla». | Arranca con preámbulo: «Heyy míguenle, bienvenidos una vez más a mi canal, y el día de hoy vamos a tocar un tema…». En los datos del canal, las intros así pierden 45–68 % en el primer minuto. | **La frase más polémica es el gancho.** La primera frase es el tema o el conflicto; el saludo va después y corto. |
+| Ejemplos locales que solo Otto puede dar: Bogotá (vías en buen estado → rígida), Santander (el Engresque bajando a Zapatoca, los caminos de Lebrija, el matadero del Pato → doble), los Llanos (plano pero con piedra → doble). | El patrocinador entra **antes** de dar cualquier valor («antes de irnos a hablar… veámonos con el patrocinador»). | **Transparencia al inicio en una línea; el segmento del patrocinador va después del primer capítulo de valor y dentro de la historia** (ej.: INBIKE en el capítulo de maratón de 7 días, donde los calambres son el problema real). |
+| Experiencia de primera mano con las dos bicis y un caso concreto (Epic Evo para La Leyenda del Dorado: +16.000 m de desnivel, 7 días). | Beneficios del patrocinador dichos como hechos («ayuda a prevenir calambres»). | Afirmaciones de salud o rendimiento de una marca van «según la marca», y Otto solo afirma lo que sintió él. |
+| Pregunta a la comunidad para comentarios. | Cierre largo de despedida: «si les ha gustado dejen un gran like y si no también… chaooo». En Shorts la mitad se va con la despedida; en largos se pierde la tarjeta final. | Cierre = veredicto + una pregunta concreta («comenta R o D») + tarjeta al siguiente video + «más determinación, menos excusas». Sin «chao». |
+| — | Estructura lineal sin capítulos con nombre; datos de época («9 o 10 velocidades») y bicis que ya pueden no ser las actuales. | Capítulos con nombre propio (terreno, carrera, presupuesto). Revisar qué bicis tiene Otto hoy (en nov 2026: dream build Mamba 2027, Specialized Epic 8) antes de citarlas. |
+| — | Saludo «Heyy míguenle». | El saludo vigente es «buenas noches, buenas tardes, buenos días». |
+
+**Patrón común de los guiones de antes (Titan y Rígida o doble):** empiezan por el principio y no por el gancho, siguen el orden de la información y no el de la emoción, ponen todo al mismo nivel sin pico, y cierran con despedida. Lo que más valor tiene en los dos es la experiencia personal y los ejemplos locales: **la skill parte siempre de ahí.**
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.
