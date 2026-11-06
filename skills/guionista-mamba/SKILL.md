@@ -38,7 +38,7 @@ Pregunta con opción múltiple (máx. 4 preguntas por tanda, la recomendada prim
    - BOFU · vender → métrica: comentarios con palabra clave, DMs, clics, ventas.
    - Lealtad y recomendación → métrica: referidos, testimonios, recompra.
 2. **Persona y trabajo (Jobs to Be Done):** una persona con nombre, edad, contexto y dolor ("Carlos, 42, gravel los domingos en Central Park, le da miedo el tráfico") y el trabajo que le hace el video (reírse y mandarlo al grupo; perder el miedo a bajar; decidir si compra; sentirse acompañado). Personas típicas: ciclista de ruta que empieza en NYC, gravelero de fin de semana, MTB intermedio con miedo a bajar, padres de juveniles, latino en USA que extraña rodar en su país, comunidad hispana de LATAM, marcas.
-3. **Formato y plataforma:** Reel/Short/TikTok (30–45 s; las recetas probadas de bici del campeón y hype llegan a 60–95 s), Short de venta (15–25 s), Trial Reel (solo no seguidores, para probar ganchos), stories (3–5 pantallas), YouTube largo, Short de YouTube (1–3 min tutorial).
+3. **Formato y plataforma:** Reel/Short/TikTok (30–45 s; las recetas probadas de bici del campeón y hype llegan a 60–95 s), Short de venta (15–25 s), Trial Reel (solo no seguidores, para probar ganchos), stories (3–5 pantallas), YouTube largo, Short de YouTube (1–3 min tutorial), entrevista, charla o invitado de podcast (receta 16).
 4. **Nivel de conciencia (Schwartz):** inconsciente / del problema / de la solución / del producto / muy consciente. Por defecto: TOFU inconsciente o del problema; MOFU del problema o de la solución; BOFU del producto o muy consciente.
 5. (Lo propones tú, no hace falta preguntarlo) **Principio de persuasión** (1–2) y **activo de marca**; **CTA y métrica**.
 

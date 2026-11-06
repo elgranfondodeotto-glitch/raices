@@ -120,6 +120,19 @@ Otto escribió un texto crudo y existe una segunda versión «pulida». La compa
 
 **Lista negra de frases acartonadas** (no se usan nunca en un guion de Otto): celebración de la humanidad · epicentro · magia (como relleno) · inquebrantable · acto de valentía · convertir lo imposible en posible · déjame decirte · surcar · sin lugar a dudas · en el mundo de hoy · viaje (como metáfora de vida) · pasión desbordante · llevar al siguiente nivel.
 
+### I. Guion de antes · Entrevista «Semana de la Bicicleta» (Funza, Sabana de Occidente)
+
+Respuestas preparadas para una entrevista o charla pública: apertura, tres preguntas y mensaje final.
+
+| QUÉ FUNCIONA (se conserva) | QUÉ FALLA FRENTE AL SISTEMA | LA REGLA |
+|---|---|---|
+| La mejor frase está al final: «si alguien me hubiera dicho hace 10 años, cuando me subí a la bici, todos los beneficios que traería para mi vida, no le hubiera creído una sola palabra». Es un momento Storyworthy perfecto. | Abre con agradecimiento y felicitaciones formales, y luego con generalidades: «uno de los mejores inventos de la humanidad», «vehículo multimodal». | **La frase más fuerte va primero** (y se retoma al final para cerrar en círculo). El agradecimiento, en una línea. |
+| Una idea propia y filosa: en Colombia la bici fue transporte mucho antes de los carriles bici, porque con un salario mínimo no alcanza ni para bus ni para moto. | Respuestas largas, con frases de varias líneas. | **Cada respuesta de entrevista: titular → prueba o experiencia → cierre.** 30–60 s, para que cada una sirva también como clip de reel (protocolo TEP de editor-mamba). |
+| Autoridad por experiencia: comparar Nueva York con Bogotá desde lo que vio (carriles, bici pública, domicilios en bici eléctrica). | Cifras sin fuente: Nueva York y Bogotá «10 millones», «densidad similar», «miles de millones», «más de 2.000 viajes por hora entre Funza y Mosquera». | Toda cifra lleva fuente (estudio de movilidad, alcaldía, censo) o se dice como lo que es: «lo que vi», «más o menos». Población ≠ densidad. |
+| Petición concreta a quien escucha: carril bici Funza–Siberia (y a Chía). | — | En una charla pública, una petición concreta vale más que diez generalidades. |
+| «El ciclismo está en el ADN de los colombianos», «el que lo prueba se queda». | Cierre con lista genérica de beneficios («beneficios y bondades es lo que les sobra»). | Cierre con la imagen personal, no con la lista. |
+| — | Texto en mayúsculas y con errores de tipeo. | En el teleprompter, ortografía limpia. ⚠️ Preguntar a Otto si lee mejor en mayúsculas; si sí, se respeta. |
+
 ## Cómo se alimenta este registro (obligatorio en cada uso de la skill)
 
 1. Cuando Otto diga "aprobado", "me gusta", "dale" o publique la pieza: agregar fila en QUÉ FUNCIONÓ con la fecha y, cuando existan, las métricas a 7 días.

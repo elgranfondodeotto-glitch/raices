@@ -12,6 +12,7 @@ Cada receta viene de una pieza real de Otto (evidencia en `registro-aprendizajes
 | MOFU/BOFU · marca | 8 Review estilo referencia · 13 Review dedicado de YouTube |
 | BOFU · ventas | 9 Short de venta (PAS) |
 | Lealtad | 12 Celebrar al alumno |
+| Autoridad y comunidad | 16 Entrevista, charla pública o invitado de podcast |
 
 ---
 
@@ -180,3 +181,29 @@ VEREDICTO Y CIERRE
 Terreno roto o carreras de varios días: doble. Terreno bueno, XCO o presupuesto justo: buena rígida. ¿Y tú cuál llevas? Comenta R o D. Y si quieres ver cómo se arma una doble de competencia, el dream build está aquí arriba. Más determinación, menos excusas. [2 s de aire]
 
 ⚠️ Verificar antes de grabar: bicis actuales de Otto, acuerdo vigente con INBIKE (entregable, código), producto exacto y datos de La Leyenda del Dorado.
+
+## 16 · Entrevista, charla pública o invitado de podcast (autoridad y comunidad) — base: «Semana de la Bicicleta», Funza
+- **Para:** entrevistas de prensa o de alcaldía, charlas, paneles, ser invitado en un podcast o preparar las respuestas de Otto en «El Arte de Saber Sufrir».
+- **Apertura (≤ 15 s):** gracias en una línea + la frase más fuerte (confesión, historia o dato).
+- **Cada respuesta (30–60 s):** titular en una frase → prueba (experiencia propia, lo que vio, un caso) → cierre que se pueda citar. Así cada respuesta sale como clip de reel.
+- **Si hay una petición** (autoridades, marcas, comunidad), concreta: qué, dónde y por qué ahora.
+- **Cierre:** volver a la frase de apertura (cierre en círculo) + «más determinación, menos excusas».
+- **Cifras con fuente** o dichas como observación propia.
+
+### Ejemplo: Funza reescrito con el sistema
+`Autoridad/comunidad · Alcaldes y biciusuarios de la Sabana de Occidente · Trabajo: que la bici se tome en serio como transporte · Conciencia: del problema · Receta 16 · Cialdini: autoridad + unidad`
+
+APERTURA
+Gracias por la invitación. Y empiezo con una confesión: si hace diez años, cuando me subí a la bici, alguien me hubiera dicho todo lo que iba a hacer por mi vida, no le habría creído una sola palabra.
+
+¿QUÉ HIZO CRECER A LOS AFICIONADOS?
+Lo mejor que nos dejó la pandemia fue la bici: era de lo poco que se podía hacer, y se puede hacer solo. Pero ya venía creciendo: cada vez que un colombiano gana en una grande, miles salen a rodar. El ciclismo está en nuestro ADN. El que lo prueba, se queda.
+
+¿CÓMO HA AYUDADO LA BICI A LAS CIUDADES?
+Acabo de llegar de Nueva York. Allá todo gira alrededor del carro, y aun así están llenando la ciudad de carriles bici, bicis públicas y domicilios en bici eléctrica. La gente lo tiene claro: o te bajas del carro o se te va la vida en el tráfico. En Colombia es al revés: la bici fue transporte mucho antes del primer carril bici. ¿Por qué? Porque con un salario mínimo no alcanza para el bus ni para la moto. La bici fue el aliado de la gente cuando nadie hablaba de movilidad.
+Por eso les pido a los alcaldes de la Sabana de Occidente: el carril bici de Funza a Siberia, y por qué no hasta Chía, es urgente. Entre Funza y Mosquera se mueven miles de viajes en bici en hora pico [⚠️ cifra exacta con fuente]. Hay ciudades enteras del país que no llegan a eso.
+
+MENSAJE A LOS BICIUSUARIOS Y DEPORTISTAS
+El ciclismo es más que un deporte: es un estilo de vida. Úsenla para ir al trabajo, para entrenar, para viajar o para rodar en familia. Hace diez años yo no le hubiera creído a nadie. Hoy se los digo yo: súbanse a la bici. Más determinación, menos excusas.
+
+Clips que salen: «En Colombia la bici fue transporte antes que moda» (TOFU, envío) · «Si hace diez años me hubieran dicho…» (MOFU, historia).
